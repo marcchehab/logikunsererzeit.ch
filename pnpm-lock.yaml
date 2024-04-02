@@ -75,7 +75,7 @@ dependencies:
     specifier: ^0.4.5
     version: 0.4.5
   preact:
-    specifier: ^10.19.6
+    specifier: ^10.20.1
     version: 10.20.1
   preact-render-to-string:
     specifier: ^6.4.0
