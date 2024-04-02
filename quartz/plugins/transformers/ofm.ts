@@ -10,6 +10,8 @@ import { JSResource } from "../../util/resources"
 // @ts-ignore
 import calloutScript from "../../components/scripts/callout.inline.ts"
 // @ts-ignore
+import excalidrawScript from "../../components/scripts/excalidraw.inline.ts"
+// @ts-ignore
 import checkboxScript from "../../components/scripts/checkbox.inline.ts"
 import { FilePath, pathToRoot, slugTag, slugifyFilePath } from "../../util/path"
 import { toHast } from "mdast-util-to-hast"
@@ -24,6 +26,7 @@ export interface Options {
   wikilinks: boolean
   callouts: boolean
   mermaid: boolean
+  excalidraw: boolean
   parseTags: boolean
   parseArrows: boolean
   parseBlockReferences: boolean
@@ -39,6 +42,7 @@ const defaultOptions: Options = {
   wikilinks: true,
   callouts: true,
   mermaid: true,
+  excalidraw: true,
   parseTags: true,
   parseArrows: true,
   parseBlockReferences: true,
@@ -250,6 +254,24 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
                           width,
                           height,
                           alt,
+                        },
+                      },
+                    }
+                  } else if ([".excalidraw"].includes(ext)) {
+                    const match = wikilinkImageEmbedRegex.exec(alias ?? "")
+                    const alt = match?.groups?.alt ?? ""
+                    const width = match?.groups?.width ?? "100%"
+                    const height = match?.groups?.height ?? "auto"
+                    
+                    return {
+                      type: "image",
+                      url: url + ".light.svg",
+                      data: {
+                        hProperties: {
+                          width,
+                          height,
+                          alt,
+                          className: ["excalidraw"],
                         },
                       },
                     }
@@ -666,6 +688,14 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
       if (opts.callouts) {
         js.push({
           script: calloutScript,
+          loadTime: "afterDOMReady",
+          contentType: "inline",
+        })
+      }
+
+      if (opts.excalidraw) {
+        js.push({
+          script: excalidrawScript,
           loadTime: "afterDOMReady",
           contentType: "inline",
         })
