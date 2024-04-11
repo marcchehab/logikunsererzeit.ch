@@ -1,12 +1,15 @@
 ---
 title: Willkommen auf Logik unserer Zeit
 ---
-Hier 
+Hier
 
-![[mieten#another one]]
+few things to fix
 
-asda
-![[net-99-abschlussauftrag-g1.mp4]]
-https://www.youtube.com/watch?v=lhYx0TMIcKE
+## MUD candidate
+x Machado
+x Corina Yoris
+Edmundo González Urrutia
 
-![[index 2024-04-02 23.39.18.excalidraw]]
+## Another one
+Manuel Rosales
+
