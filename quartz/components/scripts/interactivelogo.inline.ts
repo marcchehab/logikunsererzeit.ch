@@ -1,10 +1,10 @@
 let solved = 0
 let showreallogo = false
 const logoWrapper = document.querySelectorAll(".site-logo")[0]
-if (localStorage.getItem("logoriddle") == "firstsolved") {
-  document.documentElement.classList.add("logosolved")
-  showreallogo = true
-}
+// if (localStorage.getItem("logoriddle") == "firstsolved") {
+//   document.documentElement.classList.add("logosolved")
+//   showreallogo = true
+// }
 const partycolors = [
   "#F44336",
   "#E91E63",
@@ -144,7 +144,7 @@ function fadeInRealLogo() {
 }
 function party() {
   if (solved < 20) {
-    logoWrapper.querySelectorAll("#interactive > g").forEach((el) => {
+    logoWrapper.querySelectorAll(".svglogo .interactive > g").forEach((el) => {
       const color = partycolors[Math.floor(Math.random() * partycolors.length)]
       el.querySelectorAll("path").forEach((el) => (el.style.fill = color))
     })
@@ -155,20 +155,20 @@ function party() {
   }
 }
 
+let interactivekeys = logoWrapper.querySelectorAll(".svglogo .interactive > g")
 function toggleme(elem: HTMLElement) {
   if (!solved) {
-    let interactivekeys = logoWrapper.querySelectorAll("#interactive > g")
-    if (elem.id == "toggle-l") {
+    if (elem.classList.contains("toggle-l")) {
       elem.parentElement?.classList.toggle("active")
-      document.getElementById("z")?.classList.toggle("active")
-    } else if (elem.id == "toggle-u") {
+      document.getElementsByClassName("z")[0]?.classList.toggle("active")
+    } else if (elem.classList.contains("toggle-u")) {
       elem.parentElement?.classList.toggle("active")
-      document.getElementById("l")?.classList.toggle("active")
-    } else if (elem.id == "toggle-z") {
+      document.getElementsByClassName("l")[0]?.classList.toggle("active")
+    } else if (elem.classList.contains("toggle-z")) {
       elem.parentElement?.classList.toggle("active")
-      document.getElementById("l")?.classList.toggle("active")
+      document.getElementsByClassName("l")[0]?.classList.toggle("active")
     }
-    interactivekeys = logoWrapper.querySelectorAll("#interactive > g")
+    interactivekeys = logoWrapper.querySelectorAll(".svglogo .interactive > g")
     solved = Number(Array.from(interactivekeys).every((el) => el.classList.contains("active")))
     if (solved) {
       document.documentElement.classList.add("logoparty")
@@ -198,16 +198,16 @@ function toggleme(elem: HTMLElement) {
 
 function initlogo() {
   if (!showreallogo) {
-    document.getElementById("toggle-l")?.addEventListener("click", function () {
+    document.getElementsByClassName("toggle-l")[0]?.addEventListener("click", function () {
       toggleme(this)
     })
-    document.getElementById("toggle-u")?.addEventListener("click", function () {
+    document.getElementsByClassName("toggle-u")[0]?.addEventListener("click", function () {
       toggleme(this)
     })
-    document.getElementById("toggle-z")?.addEventListener("click", function () {
+    document.getElementsByClassName("toggle-z")[0]?.addEventListener("click", function () {
       toggleme(this)
     })
-    document.getElementById("l")?.classList.add("active")
+    document.getElementsByClassName("l")[0]?.classList.add("active")
   }
 }
 
