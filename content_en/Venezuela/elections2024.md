@@ -13,9 +13,11 @@ Let's now look at the ballot:
 *Note that rows are the first digit, the second digit the column.*
 
 ## 1: Thirteen places for Maduro
+
 The first row is full of parties - big and small - that support [[Nicolás Maduro]] as a candidate.
 
-## 2. Not even one for the real opposition
+## 2. Not even one for the real opposition candidate
+
 E25: The **coalition of democratic opposition parties is the MUD** (Mesa de la Unidad Democrática, now also called the "platform"). In primaries they selected [[María Corina Machado]] as their candidate, who received over 90% of the vote. However, the regime banned her from holding public office for 15 years during the primary election campaign and now banned her from registering for the presidential election, too. 
 
 Machado picked a replacement candidate (Corina Yoris), who was also unable to register. After several attempts, the MUD was only able to put a little known politician on the ballot paper: the diplomat [[Edmundo González]]. He is now the opposition's unity candidate, representing the entire opposition.
@@ -31,6 +33,7 @@ Though the "don't knows" (no sabe) are still substantial, it's obvious that, if 
 
 ![[elections2024-2024-05-01-09.40.07.excalidraw]]
 ## 3: Opposition parties taken over by the regime
+
 One option: The most important opposition parties were "intervened". This means that the Venezuelan Supreme Court (controlled by the dictatorship) arbitrarily removed the **party leaders** and replaced them with Maduro-friendly leaders who are now pretending to represent these parties.
 - Vente Venezuela, Primero Justicia, Voluntad Popular, Acción Democrática, and COPEI are the main opposition parties in Venezuela. The actual leaders of these parties all support the MUD and the unity candidate. So the candidates marked "3" are not real candidates by these parties, but candidates by the artificially "intervened" juntas. The names of these **false candidates** are:
 	- Daniel Ceballos for "Voluntad Popular"
