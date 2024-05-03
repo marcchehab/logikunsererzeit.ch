@@ -9,7 +9,10 @@ const InteractiveLogo: QuartzComponent = (props: QuartzComponentProps) => {
     <div class="site-logo">
       <div class="desktop-only">{DesktopSvg}</div>
       <div class="mobile-only">{MobileSvg}</div>
-      <div class="logo-congratulations">Gratuliere 😎</div>
+      <div class="logo-congratulations">
+        <span class="lang de">Gratuliere 😎</span>
+        <span class="lang en">Congrats 😎</span>
+      </div>
     </div>
   )
 }

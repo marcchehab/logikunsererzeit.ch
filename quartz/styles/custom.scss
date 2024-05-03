@@ -36,3 +36,13 @@ h1.article-title {
     border-left-color: var(--color-accent-0);
   }
 }
+
+
+// Language selector
+
+[lang="en"] .lang:not(.en) {
+  display: none;
+}
+[lang="de"] .lang:not(.de) {
+  display: none;
+}

@@ -16,11 +16,15 @@ Let's now look at the ballot:
 The first row is full of parties - big and small - that support [[Nicolás Maduro]] as a candidate.
 
 ## 2. Not even one for the real opposition
-E25: The **coalition of democratic opposition parties is the MUD** (Mesa de la Unidad Democrática, now also called the "platform"). In primaries they selected [[María Corina Machado]] as their candidate, who received over 90% of the vote. However, the regime banned her from holding public office for 15 years during the primary election campaign and now banned her from registering for the presidential election, too. Machado picked a replacement candidate (Corina Yoris), who was also unable to register. After several attempts, the MUD was only able to put a little known politician on the ballot paper: the diplomat [[Edmundo González]]. He is now the opposition's unity candidate, representing the entire opposition.
+E25: The **coalition of democratic opposition parties is the MUD** (Mesa de la Unidad Democrática, now also called the "platform"). In primaries they selected [[María Corina Machado]] as their candidate, who received over 90% of the vote. However, the regime banned her from holding public office for 15 years during the primary election campaign and now banned her from registering for the presidential election, too. 
+
+Machado picked a replacement candidate (Corina Yoris), who was also unable to register. After several attempts, the MUD was only able to put a little known politician on the ballot paper: the diplomat [[Edmundo González]]. He is now the opposition's unity candidate, representing the entire opposition.
+
 Look at the entire ballot and that one square on E25: That's the actual opposition that, according to current polling, would easily defeat the government in a free and fair contest. Maduro is obliterated by all three candidates the real opposition put forward: If Machado were in the race, she'd flatten Maduro ~70% to ~9%, her barred replacement Yoris ~38% to ~10% ([April, Megaanálisis](https://drive.google.com/file/d/1tSReQeVZHrfA8aaYCP77026nz2x2WoDi/view?pli=1)).
+
 ![[Pasted image 20240503154604.png]]
 
-Even the previously unknown González leads Maduro with ~32% to ~11%.
+Even the previously unknown González leads Maduro with ~32% to ~11%. ([April Flash, Megaanálisis](https://drive.google.com/file/d/1L6swKgLGjgx8xjeLe0YumwWzYynZ6hR3/view))
 ![[Pasted image 20240503155005.png]]
 
 Though the "don't knows" (no sabe) are still substantial, it's obvious that, if you're Maduro, you cannot under any circumstances allow free and fair elections. So what do you do? Let's return to the ballot.
@@ -44,7 +48,7 @@ Another option: While the dictatorship made it almost impossible for the MUD to 
 - Enrique Márquez for Centrados (E35) is a genuine opposition figure and wants to "overcome" the conflict. He did not support the MUD's election boycott in 2018, which proved to be a mistake, and was kicked out of Nuevo Tiempo for it. Now he thinks Machado's disqualification was unfair - but now the field is open again. [Nevertheless, he says](https://www.youtube.com/live/u6mOGcM0AfA?si=5XcyVOUsTsqNSF9R&t=1902) who would withdraw if there was another candidate with a better chance of defeating Maduro. Let's see if he honours the pledge.
 - Claudio Fermín for Soluciones (H48) also wants to ["end the polarisation"](https://www.youtube.com/watch?v=xniJAi4swMY). He has been in politics for a long time. 
 - Antonio Ecarri from Lápiz portrays himself as the great conciliator and seeks equidistance from the government ("the worst government in the history of Venezuela") and the opposition ("just as much a disaster"). The opposition calls him corrupt and makes a big deal out of the fact that Maduro invited him to the Miraflores presidential palace. Note also the "Min Unidad" party, which looks very similar to the opposition's logo.
-- Benjamín Rausseo is standing with Conde. He is a comedian and initially took part in the MUD primaries, but then withdrew. He may make 50-100 thousand votes.
+- Benjamín Rausseo is standing with Conde. He is a comedian and initially took part in the MUD primaries, but then withdrew. He too wants to contruct a campaign without ["hate" or vengeance](https://youtu.be/EUar8RCobzk?si=Y-zwicWyIxI3epJ6&t=1251).
 - el cambio. javier bertucci. evangelist. actively supported by government. 
 - Luis Rati entered the race for DD. He has withdrawn his candidacy and is supporting the false "Acción Democrática" candidate, Luis Eduardo Martínez.
 
