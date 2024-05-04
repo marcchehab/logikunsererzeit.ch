@@ -1,12 +1,13 @@
 ---
-title: Venezuela's ballot for its unfree and unfair election
+title: "Democracy vs. dictatorship: The anatomy of Venezuela's unfree and unfair presidential election"
 ogimage: ballot-ogimage.png
+date: 2024-05-04
 ---
 Venezuela's presidential elections in July 2024 are neither free nor fair. The democratic opposition will nevertheless run against the authoritarian regime of [[Nicolás Maduro]], who will use and misuse the levers of power in any way he can to stay in power.
 
 The logic of these elections, then, is based on the political strategy of the authoritarian ruler: *divide et impera*, **divide and rule**. We'll now look at some of the dirty tricks authoritarians like Maduro use to try to steal elections. The guiding principle is the following:
 
-> The authoritarian corrupts the election process to make it nearly impossible for the real opposition to run, while he encourages corrupt and wild candidates to run independently. The aim is to fragment the opposition vote.
+> The authoritarian corrupts the rules of the election to make it nearly impossible for the real opposition to run, while he encourages corrupt and wild candidates to run independently. His aim is to fragment the opposition vote, because he knows he'd lose in a fair contest.
 
 Let's look at the ballot:
 
