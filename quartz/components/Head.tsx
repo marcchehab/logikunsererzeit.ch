@@ -1,11 +1,24 @@
 import { i18n } from "../i18n"
-import { FullSlug, joinSegments, pathToRoot } from "../util/path"
+import {
+  FullSlug,
+  joinSegments,
+  pathToRoot,
+  FilePath,
+  slugifyFilePath,
+  transformLink,
+  TransformOptions,
+} from "../util/path"
 import { JSResourceToScriptElement } from "../util/resources"
 import { googleFontHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 export default (() => {
-  const Head: QuartzComponent = ({ cfg, fileData, externalResources }: QuartzComponentProps) => {
+  const Head: QuartzComponent = ({
+    ctx,
+    cfg,
+    fileData,
+    externalResources,
+  }: QuartzComponentProps) => {
     const title = fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
     const description =
       fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description
@@ -15,8 +28,20 @@ export default (() => {
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
-    const iconPath = joinSegments(baseDir, "static/icon.png")
-    const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
+    const iconPath = joinSegments(baseDir, "static/icon.svg")
+    const ogImagePathGlobal = `https://${cfg.baseUrl}/static/og-image.png`
+
+    const transformOptions: TransformOptions = {
+      strategy: "shortest",
+      allSlugs: ctx.allSlugs,
+    }
+
+    const ogImagePathCustom = (fileData.frontmatter?.ogimage as string)?.trim() ?? ""
+    const ogImageUrl = `https://${cfg.baseUrl}/${transformLink(
+      fileData.slug!,
+      ogImagePathCustom as FilePath,
+      transformOptions,
+    )}`
 
     return (
       <head>
@@ -32,7 +57,7 @@ export default (() => {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
-        {cfg.baseUrl && <meta property="og:image" content={ogImagePath} />}
+        {cfg.baseUrl && <meta property="og:image" content={ogImageUrl ?? ogImagePathGlobal} />}
         <meta property="og:width" content="1200" />
         <meta property="og:height" content="675" />
         <link rel="icon" href={iconPath} />
