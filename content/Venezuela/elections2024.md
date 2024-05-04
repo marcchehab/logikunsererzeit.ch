@@ -1,5 +1,6 @@
 ---
 title: Venezuela's ballot for its unfree and unfair election
+ogimage: ballot-ogimage.png
 ---
 Venezuela's presidential elections in July 2024 are neither free nor fair. The democratic opposition will nevertheless run against the authoritarian regime of [[Nicolás Maduro]], who will use and misuse the levers of power in any way he can to stay in power.
 
