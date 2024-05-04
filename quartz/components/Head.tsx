@@ -29,19 +29,21 @@ export default (() => {
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
     const iconPath = joinSegments(baseDir, "static/icon.svg")
-    const ogImagePathGlobal = `https://${cfg.baseUrl}/static/og-image.png`
+    let ogImageUrl = `https://${cfg.baseUrl}/static/og-image.png`
 
-    const transformOptions: TransformOptions = {
-      strategy: "shortest",
-      allSlugs: ctx.allSlugs,
+    if (fileData.frontmatter?.ogimage) {
+      const ogImagePathCustom = (fileData.frontmatter?.ogimage as string).trim()
+      const transformOptions: TransformOptions = {
+        strategy: "shortest",
+        allSlugs: ctx.allSlugs,
+      }
+
+      ogImageUrl = `https://${cfg.baseUrl}/${transformLink(
+        fileData.slug!,
+        ogImagePathCustom as FilePath,
+        transformOptions,
+      )}`
     }
-
-    const ogImagePathCustom = (fileData.frontmatter?.ogimage as string)?.trim() ?? ""
-    const ogImageUrl = `https://${cfg.baseUrl}/${transformLink(
-      fileData.slug!,
-      ogImagePathCustom as FilePath,
-      transformOptions,
-    )}`
 
     return (
       <head>
@@ -57,7 +59,7 @@ export default (() => {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
-        {cfg.baseUrl && <meta property="og:image" content={ogImageUrl ?? ogImagePathGlobal} />}
+        {cfg.baseUrl && <meta property="og:image" content={ogImageUrl} />}
         <meta property="og:width" content="1200" />
         <meta property="og:height" content="675" />
         <link rel="icon" href={iconPath} />
