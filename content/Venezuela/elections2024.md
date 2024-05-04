@@ -28,7 +28,7 @@ Look at the entire ballot and that one square on E25: that's the real opposition
 
 ![[Pasted image 20240503154604.png]]
 
-Even the previously unknown González already leads Maduro with ~32% to ~11%. ([April Flash, Megaanálisis](https://drive.google.com/file/d/1L6swKgLGjgx8xjeLe0YumwWzYynZ6hR3/view))
+Even the previously unknown González already leads Maduro with ~32% to ~11% ([April Flash, Megaanálisis](https://drive.google.com/file/d/1L6swKgLGjgx8xjeLe0YumwWzYynZ6hR3/view)). [Datincorp](https://efectococuyo.com/politica/polarizacion-maduro-edmundo-75-claves-nueva-encuesta-datincorp/) also reported González to have a triple advantage over Maduro in a one-vs-one (~62% vs ~20%)
 
 ![[Pasted image 20240503155005.png]]
 
@@ -62,3 +62,5 @@ I'll try and order these candidates by how likely they are to withdraw and suppo
 - Antonio Ecarri from Lápiz (J30) portrays himself as the great conciliator and seeks equidistance from the government ("the worst government in the history of Venezuela") and the opposition ("just as much a disaster"). The opposition calls him corrupt and makes a big deal out of the fact that Maduro invited him to the Miraflores presidential palace. Note also the "Min Unidad" party, which looks very similar to the opposition's logo.
 - Benjamín Rausseo is standing with Conde (D34). He is a comedian and initially took part in the MUD primaries, but then withdrew. He too wants to construct a campaign without ["hate" or vengeance](https://youtu.be/EUar8RCobzk?si=Y-zwicWyIxI3epJ6&t=1251).
 - Luis Rati entered the race for DD (D24). He has withdrawn his candidacy and is supporting the false "Acción Democrática" candidate, Luis Eduardo Martínez.
+
+Let's collect feedback and comments [here on Twitter](https://twitter.com/marcchehab/status/1786764725985915120).
