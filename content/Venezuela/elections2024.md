@@ -1,72 +1,62 @@
 ---
-title: Der Wahlzettel für Venezuelas Wahltheater
+title: Venezuela's ballot for its unfree and unfair election
 ---
-Im Juni 2024 finden in Venezuela unfreie und unfaire Wahlen statt. Trotzdem tritt die demokratische Opposition gegen das autoritäre Regime von [[Nicolás Maduro|Nicolás Maduro]] an, der alle Hebel des Ölstaats in Bewegung setzen wird, um an der Macht zu bleiben. Denn die Opposition hat gelernt: ein Boykott bringt nichts, die Chavisten regieren ungeniert durch.
+Venezuela's presidential elections in July 2024 are neither free nor fair. The democratic opposition will nevertheless run against the authoritarian regime of [[Nicolás Maduro]], who will use and misuse the levers of power in any way he can to stay in power.
 
-Die Logik dieser Wahlen ergibt sich aus der politischen Strategie des autoritären Herrschers: *Divide et impera*, **teile und herrsche**. Das sieht man gut am offiziellen Wahlzettel, wenn man die Geschichten hinter den Bildchen kennt.
+The logic of these elections, then, is based on the political strategy of the authoritarian ruler: *divide et impera*, **divide and rule**. We'll now look at some of the dirty tricks authoritarians like Maduro use to try to steal elections. The guiding principle is the following:
 
-## Die Logik unfreier Wahlen
+> The authoritarian corrupts the election process to make it nearly impossible for the real opposition to run, while he encourages corrupt and wild candidates to run independently. The aim is to fragment the opposition vote.
 
-Im folgenden erläutere ich diese Geschichten kurz. Zusammengefasst aber vorweg:
-
-> Die Diktatur macht es der echten Opposition maximal schwierig zu kandidieren, während sie Korrupten und wilden Kandidaten die Registrierung fast schon hinterherwirft, um so die Stimmen für die Opposition zu zerstückeln.
+Let's look at the ballot:
 
 ![[elections2024-2024-05-01-09.40.07.excalidraw]]
-1. Die erste Reihe ist voller Parteien – grosse und kleine –, die [[Nicolás Maduro]] als Kandidaten unterstützen.
-2. Die **Koalition der demokratischen Oppositionsparteien ist die MUD** (Mesa de la Unidad Democrática). Sie einigten sich in Vorwahlen auf [[María Corina Machado]] als Kandidatin, die über 90% der Stimmen erhielt. Die Diktatur hatte ihr allerdings während der Kampagne der Vorwahlen die Bekleidung öffentlicher Ämter für 15 Jahre verboten und nun die Registrierung zur Präsidentschaftswahl. Eine Ersatzkandidatin Machados konnte sich ebenfalls nicht registrieren. Die MUD konnte nach mehreren Versuchen nur einen fast gänzlich Unbekannten auf den Wahlzettel bringen: den Diplomaten [[Edmundo González]]. Er ist nun der Einheitskandidat Opposition, der stellvertretend für die ganze Opposition antritt.
-3. Bei den wichtigsten Oppositionsparteien wurde zudem "interveniert". Das heisst: Das oberste Gericht Venezuelas hat die **unliebsamen Parteiführungen willkürlich abgesetzt** und durch Maduro-freundliche Führungsriegen ersetzt, die sich nun als diese Parteien ausgeben.
-	- Primero Justicia, Voluntad Popular, Acción Democrática, and COPEI sind die wichtigsten Oppositionsparteien Venezuelas. Die Führungsriegen der anderen dieser Parteien unterstützen allesamt die MUD und den Einheitskandidaten – also nicht die Kandidaten, die hier auf dem Wahlzettel unter ihrem Namen angepriesen werden. Die Namen dieser **falschen Kandidaten** sind:
-		- Daniel Ceballos bei Voluntad Popular
-		- Luis Eduardo Martínez bei Acción Democrática
-		- José Brito bei Primero Venezuela, die eigentlich Primero Justicia heisst
-		- Juan Carlos Alvarado bei COPEI (Kandidatur zurückgezogen für Luis Eduardo Martínez)
-	- Auch bei den Kommunisten von PCV wurde "interveniert". Sie wollten einen eigenen Kandidaten registrieren und Maduro nicht unterstützen. Das hätte Maduro Stimmen gekostet.
-	- Übrigens: Vente Venezuela von [[María Corina Machado]] wurde seit 2015 die **Registrierung als politische Partei verwehrt**.
-4. Es gibt wilde Kandidaturen:
-	- Un Nuevo Tiempo haben ihren Präsidenten Manuel Rosales registriert. Er hat sich mittlerweile zurückgezogen und plädiert für die Wahl des MUD-Einheitskandidaten.
-	- Enrique Márquez für Centrados ist ein echter Oppositioneller und möchte den Konflikt "überwinden". Er unterstützte 2018 den Wahlboykott der MUD nicht, der sich als Fehler erwiesen hat, und wurde dafür bei Nuevo Tiempo rausgeschmissen. Jetzt findet er, Machados Disqualifizierung sei unfair – aber nun sei das Feld wieder offen. [Trotzdem sagt er](https://www.youtube.com/live/u6mOGcM0AfA?si=5XcyVOUsTsqNSF9R&t=1902), wer würde sich zurückziehen, wenn es einen anderen Kandidat mit besseren Chancen gebe, um Maduro zu besiegen (was der MUD-Einheitskandidat sicherlich wäre).
-	- Claudio Fermín für Soluciones möchte ebenfalls die Polarisierung beenden. Er ist seit langem in der Politik und  https://www.youtube.com/watch?v=xniJAi4swMY
-	- Antonio Ecarri von Lápiz gibt den grossen Versöhner und sucht die Äquidistanz zur Regierung ("die schlechteste Regierung in der Geschichte Venezuelas") sowie der Opposition ("genauso ein Desaster"). Die Opposition nennt ihn korrupt und macht viel draus, dass er von Maduro in den Präsidentenpalast Miraflores eingeladen wurde. Man beachte auch die Partei "Min Unidad", die dem Logo der Opposition sehr ähnlich kommt. Ecarri könnte einige Hundertausend Stimmen machen.
-1. Dann gibt es Kandidaten, die Diktatur die Kandidatur verdächtig einfach gemacht hat.
-	- Für DD stieg Luis Rati ins Rennen. Er hat seine Kandidatur zurückgezogen und unterstützt Luis Eduardo Martínez
-	- Bei Conde steht Benjamín Rausseo. Er ist Komiker und hat bei den MUD-Vorwahlen zunächst mitgemacht, sich dann aber zurückgezogen. Er macht vielleicht 50-100 Tausende Stimmen.
-	- el cambio. javier bertucci. evangelist. actively supported by government. 
+*Note that rows are the first digit, the second digit the column.*
 
-the others: not forced, but gov made their path very easy. ad, copei, vp. primero venezuela brito. all when they were opposition went on a tour in europe to lobby in favour for alex saab. saying he was a legit business guy, which is a lie. pretty shady.
+## 1: Thirteen places for Maduro
 
-most worried:
-- antonio icarri a few 100k
-- bertucci evangelist
+The first row is full of parties - big and small - that support [[Nicolás Maduro]] as a candidate.
 
-other than that: all together 500k votes. latest polls maduro has 25-30%. 
+## 2. Not even one for the real opposition candidate
 
-Das äussert sich so:
-- Charismatische Oppositionelle, die der Diktatur gefährlich werden, werden disqualifiziert, eingesperrt, verjagt. Das trifft auf die aktuelle 
-- Die demokratische Opposition einigte sich in Vorwahlen auf María Corina Machado als ihre Kandidatin. Also wurde die 
+E25: The **coalition of democratic opposition parties is the MUD** (Mesa de la Unidad Democrática, now also called the "platform"). In primaries they selected [[María Corina Machado]] as their candidate, who received over 90% of the vote. However, the regime banned her from holding public office for 15 years during the primary election campaign and now barred her from registering for the presidential election, too. 
 
+Machado picked a replacement candidate (Corina Yoris), who was also unable to register. After several attempts, the MUD was able to put a little known politician on the ballot: the diplomat [[Edmundo González]]. He is now the opposition's official unity candidate, representing the opposition.
 
-Der Erfolg der Opposition wird massgeblich davon abhängen, ob sie diesmal ihre Einigkeit wahren und damit ihre Kraft auf den Boden der politischen Realität bringen kann. 
+Look at the entire ballot and that one square on E25: that's the real opposition, which, according to current polls, would easily defeat the government in a free and fair contest. Maduro is obliterated by all three of the real opposition candidates: If Machado were in the race, she'd flatten Maduro ~70% to ~9%, and her barred substitute Yoris ~38% to ~10% ([April, Megaanálisis](https://drive.google.com/file/d/1tSReQeVZHrfA8aaYCP77026nz2x2WoDi/view?pli=1)).
 
-Ausgangspunkt davon ist eine realistische Strategie, die die venezolanische Realität mürrisch anerkennt: Venezuela ist keine Demokratie und das sind keine freien demokratischen Wahlen. Wie soll man da gewinnen?
+![[Pasted image 20240503154604.png]]
 
-Die Logik unfreier Wahlen ergibt sich aus der Strategie autoritärer Herrscher. Möchtegerndikatoren weltweit versuchen auf mannigfaltige Art und Weise immer dasselbe: Sie versuchen vorzu, konkurrierende Gruppen 
+Even the previously unknown González already leads Maduro with ~32% to ~11%. ([April Flash, Megaanálisis](https://drive.google.com/file/d/1L6swKgLGjgx8xjeLe0YumwWzYynZ6hR3/view))
 
-die Bevölkerung zu spalten, damit ihnen keine oppositionelle Gruppe die Macht streitig machen kann. Anders als echte Demokraten missbrauchen Sie dazu schamlos Ihre Macht und nutzen schmutzige Tricks.
+![[Pasted image 20240503155005.png]]
 
-Wir demokratieverwöhnten Europäer können uns das kaum vorstellen, deswegen einige Beispiele aus Venezuela:
-- Hugo Chávez hat über Jahre an den Wochendenen jeweils stundenlang das Signal aller Fernsehsender mit einer "Notfall"-Übertragung gekapert und seine eigene Show *Álo Presidente* zu übertragen.
-- Das oberste Gericht hatte Chávez nach dem Coup
+Although the "don't knows" (no sabe) are still considerable, it's clear that if you're Maduro you can't allow free and fair elections under any circumstances. So what do you do? Let's go see and look at the ballot.
 
+![[elections2024-2024-05-01-09.40.07.excalidraw]]
+## 3: Opposition parties taken over by the regime
 
+One option: The main opposition parties have been "intervened". This means that the Venezuelan Supreme Court (controlled by the dictatorship) arbitrarily removed the **leaders** of the parties and replaced them with pro-Maduro leaders who now pretend to represent these parties.
+- The main opposition parties are Vente Venezuela, Primero Justicia, Voluntad Popular, Acción Democrática, and COPEI. The actual leaders of these parties all support the MUD and the unity candidate. 
+- Vente Venezuela by [[María Corina Machado]] has been **denied registration as a political party** since 2015, so you won't even find her party on the ballot.
+- Some of the other parties are present on the ballot (marked "3"), but **to promote false candidates brought forth by the imposed leadership**. They are:
+	- Luis Eduardo Martínez for "Acción Democrática"
+	- Daniel Ceballos for "Voluntad Popular"
+	- José Brito for "Primero Venezuela" (copycat of the real party called Primero Justicia)
+	- Juan Carlos Alvarado for "COPEI" (candidature withdrawn for Luis Eduardo Martínez)
+- The communist party PCV was also "intervened" in. They wanted to register their own candidate and not support Maduro.
 
+![[elections2024-2024-05-01-09.40.07.excalidraw]]
+## 4: Wild candidates are given easy access
 
+Another option: While the authoritarian regime made it almost impossible for the MUD to register, a plethora of smaller wild candidates were given easy access. 
 
-Schaffung oder Förderung von Spaltungen unter den Untertanen, um Bündnisse zu verhindern, die den Herrscher herausfordern könnten, und um die Kräfte so zu verteilen, dass sie sich gegenseitig überwältigen.
-Unterstützung und Förderung derjenigen, die bereit sind, mit dem Herrscher zu kooperieren
-das Schüren von Misstrauen und Feindschaft zwischen lokalen Herrschern
-sinnlose Ausgaben zu fördern, die die Möglichkeiten für politische und militärische Ausgaben verringern
+It's perhaps unsurprising that these third way candidates talk the third way talk of reconciliation, ending the polarization, overcoming the conflict, etc - all the while a dictatorship is being built. One is reminded of those Europeans cozing up to Vladimir Putin to end his war in Ukraine. It's an expression of the understandable but fundamentally juvenile wish to evade an inescapable confrontation with a bully. (There's also corruption, which I might investigate more in the future.)
 
-Könnte Maduros Regime frei schalten und walten, würden sie blosse Scheinwahlen nach kubanischem oder chinesischem Vorbild veranstalten. Der einzige Grund, warum es überhaupt Wahlen 
-
-Das sind Scheinwahlen einer Diktatur, die die Opposition mit Geschickt und Glück dafür nutzen kann, dem Herrscher die Legitimität zu entziehen.
-
+I'll try and order these candidates by how likely they are to withdraw and support the MUD.
+- Un Nuevo Tiempo (G37) have registered their president **Manuel Rosales**, who was supported by MPV (G27) and Fuerza Vecinal (G47). He has since withdrawn and is in favour of electing the MUD unity candidate González.
+- Enrique Márquez for Centrados (E35) is a genuine opposition figure and wants to "overcome" the conflict. He did not support the MUD's election boycott in 2018, which proved to be a mistake, and was kicked out of Nuevo Tiempo for it. Now he thinks Machado's disqualification was unfair - but now the field is open again. [Nevertheless, he says](https://www.youtube.com/live/u6mOGcM0AfA?si=5XcyVOUsTsqNSF9R&t=1902) who would withdraw if there was another candidate with a better chance of defeating Maduro. Let's see if he honours the pledge.
+- Javier Bertucci for El Cambio (D44) is a popular evangelist pastor and, oddly, supported by the government.
+- Claudio Fermín for Soluciones (H48) also wants to ["end the polarisation"](https://www.youtube.com/watch?v=xniJAi4swMY). He has been in politics for a long time. 
+- Antonio Ecarri from Lápiz (J30) portrays himself as the great conciliator and seeks equidistance from the government ("the worst government in the history of Venezuela") and the opposition ("just as much a disaster"). The opposition calls him corrupt and makes a big deal out of the fact that Maduro invited him to the Miraflores presidential palace. Note also the "Min Unidad" party, which looks very similar to the opposition's logo.
+- Benjamín Rausseo is standing with Conde (D34). He is a comedian and initially took part in the MUD primaries, but then withdrew. He too wants to construct a campaign without ["hate" or vengeance](https://youtu.be/EUar8RCobzk?si=Y-zwicWyIxI3epJ6&t=1251).
+- Luis Rati entered the race for DD (D24). He has withdrawn his candidacy and is supporting the false "Acción Democrática" candidate, Luis Eduardo Martínez.
