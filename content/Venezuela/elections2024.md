@@ -1,5 +1,5 @@
 ---
-title: "Democracy vs. dictatorship: The anatomy of Venezuela's unfree and unfair presidential election"
+title: "Democracy vs. dictatorship: The anatomy of Venezuela's unfree and unfair election"
 ogimage: ballot-ogimage.png
 date: 2024-05-04
 ---
