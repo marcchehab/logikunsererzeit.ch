@@ -7,6 +7,7 @@ import {
   slugifyFilePath,
   transformLink,
   TransformOptions,
+  stripSlashes,
 } from "../util/path"
 import { JSResourceToScriptElement } from "../util/resources"
 import { googleFontHref } from "../util/theme"
@@ -36,6 +37,7 @@ export default (() => {
       const transformOptions: TransformOptions = {
         strategy: "shortest",
         allSlugs: ctx.allSlugs,
+        type: "full",
       }
 
       ogImageUrl = `https://${cfg.baseUrl}/${transformLink(

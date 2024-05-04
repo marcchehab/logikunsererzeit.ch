@@ -198,9 +198,10 @@ export function getAllSegmentPrefixes(tags: string): string[] {
 export interface TransformOptions {
   strategy: "absolute" | "relative" | "shortest"
   allSlugs: FullSlug[]
+  type?: "relative" | "full"
 }
 
-export function transformLink(src: FullSlug, target: string, opts: TransformOptions): RelativeURL {
+export function transformLink(src: FullSlug, target: string, opts: TransformOptions): RelativeURL | FullSlug {
   let targetSlug = transformInternalLink(target)
 
   if (opts.strategy === "relative") {
@@ -221,11 +222,17 @@ export function transformLink(src: FullSlug, target: string, opts: TransformOpti
       // only match, just use it
       if (matchingFileNames.length === 1) {
         const targetSlug = matchingFileNames[0]
+        if (opts.type === "full") {
+          return targetSlug as FullSlug
+        }
         return (resolveRelative(src, targetSlug) + targetAnchor) as RelativeURL
       }
     }
 
     // if it's not unique, then it's the absolute path from the vault root
+    if (opts.type === "full") {
+      return targetCanonical as FullSlug
+    }
     return (joinSegments(pathToRoot(src), canonicalSlug) + folderTail) as RelativeURL
   }
 }
