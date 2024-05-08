@@ -1,0 +1,24 @@
+---
+title: Summary of "A practical theory of power in international politics"
+---
+The aim here is to provide the briefest possible summary of my longer [[metatheory|"A practical theory of power in international politics"]]. 
+
+We operate with a very wide **definition of politics** as the activity through which people make the general rules under which they live[^heywood], and not any of its narrower (and more dogmatic) alternatives ([[metatheory#What is politics?|see here for more]]).
+
+As for **power**, we begin with the most common analytical definition: A has power over B, if A can make B do what A wants.[^dahl] A most interesting property of this definition is that it can only define what power is after power has been successfully used. The definition does not actually define concrete thing power is, but announces what it will have been when you look back in time - namely, that thing which will have convinced B to submit to A's will. The means that will achieve this control isn’t predefined – it’s post-defined, so to say. My martial arts skills do not give me in and of themselves power over you, only once I successfully used them to threaten you into giving me your ice cream can we confidently say that they gave me power over you.
+
+We’ll see that repeated and institutionalised interaction diminishes this problem. But here we’ll stick with simple power. In this realm, to know beforehand whether or not you’ll submit to the threat of my martial arts skills is somewhere between an art and a science. The reason is that it is _you_ who chooses to submit or not. In the moment right after I issued my threat, it’s _your_ cost-benefit calculation that counts, not mine. So it may be that you’re incredibly good at judo and very confident that you could beat me easily, but that to you the hassle just isn’t worth an ice cream. It requires intimate knowledge of others to know which threats they may respond to.
+
+And if you choose not to submit and violence breaks out? Well, as Hans J. Morgenthau (and many others) knew: "When violence becomes an actuality, it signifies the abdication of political power in favour of military or pseudo-military power."[^morgenthau] If you consider that A essentially tries to control B's behaviour, you immediately see that if A has to resort to brute physical force to do so (what Morgenthau called ‘military power’) must mean that B's behaviour wasn’t successfully controlled. 
+
+This generalises: We shall see that, **looking forward in time, power is always a successful threat** of sorts. Let's illustrate with examples from international politics:
+
+You may keep your opinion to yourself (behaviour change), because you know the Jehovah's witness in front of you is ready to debate for hours (threat). You may not publicly criticize your company’s policy (behaviour change) because you know there’s a threat of being reprimanded or even fired (threat). Journalists might avoid writing about someone (behaviour change) if they are aware of legal consequences and potential lawsuits (threat). You may decide not to express unpopular opinions in your social circle (behaviour change) due to the fear of isolation or ridicule (threat). You may not tell off an aggressive trouble-maker (behaviour change), because there's a potential for serious trouble and violence (threat). One violence has erupted, you may avoid punching a person 
+
+Or, you may not invade North Korea, even though you know your conventional forces are far superior, because Kim regime is probably willing to use of nuclear weapons if pushed.
+
+PS: I don't have any martial arts skills.
+
+[^heywood]: Heywood, Andrew. _Politics_. Basingstoke: Palgrave Macmillan, 2007. 4.
+[^dahl]: Dahl is (unjustly) often credited with the original complete formulation, Dahl, Robert A. ‘The Concept of Power’. _Behavioral Science_ 2, no. 3 (1957): 201–15. [https://doi.org/10.1002/bs.3830020303](https://doi.org/10.1002/bs.3830020303). For alternatives and a comprehensive taxonomy of power definitions in IR, see Barnett, Michael, and Raymond Duvall. ‘Power in Global Governance’. In _Power in Global Governance_, edited by Michael Barnett and Raymond Duvall, 98:1–32. Cambridge University Press, 2004. Influential studies of political power work with this definition are, e.g., Dahl, Robert A. _Who Governs?: Democracy And Power In An American City_. Yale University Press, 2005; Lindblom, Charles Edward. _Politics and Markets: The World’s Political Economic Systems_. Basic Books, 1977.
+[^morgenthau]: Morgenthau, Hans Joachim. _Politics among Nations: The Struggle for Power and Peace_. Edited by Kenneth W. Thompson. Knopf, 1985. 31.

@@ -1,10 +1,10 @@
 let solved = 0
 let showreallogo = false
 const logoWrapper = document.querySelectorAll(".site-logo")[0]
-// if (localStorage.getItem("logoriddle") == "firstsolved") {
-//   document.documentElement.classList.add("logosolved")
-//   showreallogo = true
-// }
+if (localStorage.getItem("logoriddle") == "firstsolved") {
+  document.documentElement.classList.add("logosolved")
+  showreallogo = true
+}
 const partycolors = [
   "#F44336",
   "#E91E63",
