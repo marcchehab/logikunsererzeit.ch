@@ -6,7 +6,8 @@ date: 2024-05-04
 
 Im Juni 2024 finden in Venezuela **unfreie und unfaire Wahlen** statt. Trotzdem tritt die demokratische Opposition gegen das autoritäre Regime von [[Nicolás Maduro]] an, der alle Hebel des Ölstaats in Bewegung setzen wird, um an der Macht zu bleiben. Denn die Opposition hat gelernt: ein Boykott bringt nichts, die Chavisten regieren ungeniert durch.
 
-![[elections2024-2024-05-01-09.40.07.excalidraw]]
+![[elections2024-boletin.excalidraw]]
+
 ## 1: Dreizehn Karten für Maduro
 
 Oben links steht die autokratische Regierungspartei PSUV. Sie schlägt den amtierenden Präsidenten Nicolás **Maduro** zur Wiederwahl vor. Die erste Reihe besteht aus neun weiteren kleineren und größeren Parteien, die ihn ebenfalls unterstützen.
@@ -23,7 +24,7 @@ Schließlich gelang es der Opposition nach mehreren Versuchen, einen bisher unbe
 
 Einiges davon hat sich bereits bewährt: Seit der Registrierung haben zwei andere Oppositionsparteien Edmundo González unterstützt. Außerdem konnte Machado einen Großteil ihrer Popularität auf González übertragen. Den Umfragen zufolge würde er derzeit **etwa doppelt so viele Stimmen erhalten wie Maduro**.
 
-![[elections2024-2024-05-01-09.40.07.excalidraw]]
+![[elections2024-boletin.excalidraw]]
 
 ## 3: Übernahme von Oppositionsparteien durch das Regime
 
