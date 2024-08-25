@@ -1,6 +1,7 @@
 ---
 title: Der Wahlzettel für Venezuelas Wahltheater
 date: 2024-05-04
+ogimage: elections2024-boletin.excalidraw.light.svg
 ---
 ![[venezuela_ballot_de.mp4]]
 

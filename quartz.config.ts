@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "de-DE",
     baseUrl: "luzgarden.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian", "**/attachments/**/*.md"],
     defaultDateType: "created",

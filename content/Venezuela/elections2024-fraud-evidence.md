@@ -1,5 +1,6 @@
 ---
 title: Venezuelas gestohlene Wahl - die Beweise
+ogimage: ogmaduro.png
 ---
 
 ![[ogmaduro.png]]

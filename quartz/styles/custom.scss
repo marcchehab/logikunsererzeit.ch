@@ -48,11 +48,7 @@
 }
 
 // Language selector deactivated
-// [lang="de"] .lang:not(.de) {
-//   display: none;
-// }
-
-.lang {
+[lang="de"] .lang:not(.de) {
   display: none;
 }
 

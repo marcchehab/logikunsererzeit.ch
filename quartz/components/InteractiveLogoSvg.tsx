@@ -187,7 +187,7 @@ export const DesktopSvg = (
         </g>
         <ellipse class="cls-11" cx="274.87" cy="328.23" rx="119.38" ry="13.27" />
       </g>
-      <g class="subtitle-2" data-name="subtitle">
+      <g class="subtitle" data-name="subtitle">
         <g class="lang en">
           <path
             class="cls-1"
