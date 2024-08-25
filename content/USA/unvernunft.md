@@ -82,7 +82,7 @@ Dieses Arrangement macht die US-Politik äusserst anfällig für extreme und pop
 [^rauch2]: Ibid. [Rauch 2016](http://www.theatlantic.com/magazine/archive/2016/07/how-american-politics-went-insane/485570/)
 ### Ursachen der "Grosse Sortierung"
 
-> [!idea]- Ein Mini-Überblick über die wichtigsten Entwicklungen, die in der "**Grossen Sortierung**" enden.
+> [!info]- Ein Mini-Überblick über die wichtigsten **Entwicklungen**, die in der "Grossen Sortierung" enden.
 >
 > - Als Ausgangspunkt sollte man sich vor Augen halten: Der US-Bürgerkrieg (1861-1865) wurde geführt, weil sich die Sklavenhalter im Süden vom Norden abspalten wollten, um die Sklaverei zu erhalten. Der Krieg endete mit dem Sieg der Unionstruppen unter der Führung von Abraham **Lincoln - einem Republikaner**. Die Demokraten waren damals noch die Partei des Südens und unterstützten die Sklaverei.
 > - In den Jahrzehnten nach dem Krieg gaben die Republikaner ihr Ziel der Reformierung des Südens weitgehend auf. Stattdessen wurden sie zu einer unternehmerfreundlichen Wirtschaftspartei.

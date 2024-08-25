@@ -31,7 +31,8 @@ function setupCallout() {
 
     if (title) {
       title.addEventListener("click", toggleCallout)
-      window.addCleanup(() => title.removeEventListener("click", toggleCallout))
+      // TODO: addCleanup acts up 
+      // window.addCleanup(() => title.removeEventListener("click", toggleCallout))
 
       const collapsed = div.classList.contains("is-collapsed")
       const height = collapsed ? title.scrollHeight : div.scrollHeight

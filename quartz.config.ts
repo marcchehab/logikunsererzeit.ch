@@ -8,12 +8,10 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "LUZ",
+    pageTitle: "Logik unserer Zeit",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "de-DE",
     baseUrl: "www.logikunsererzeit.ch",
     ignorePatterns: ["private", "templates", ".obsidian", "**/attachments/**/*.md"],
