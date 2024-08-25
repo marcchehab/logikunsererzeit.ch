@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "de-DE",
-    baseUrl: "www.informatikgarten.ch",
+    baseUrl: "www.logikunsererzeit.ch",
     ignorePatterns: ["private", "templates", ".obsidian", "**/attachments/**/*.md"],
     defaultDateType: "created",
     theme: {
