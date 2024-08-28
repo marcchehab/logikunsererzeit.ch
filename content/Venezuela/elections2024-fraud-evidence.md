@@ -42,7 +42,9 @@ Der Kern des halbautomatischen **Wahlsystems in Venezuela ist technisch gesehen 
 2) Registrierte Zeugen und Wähler haben das Recht, diese **Stimmenauszählung ihrer Wahlmaschinen zu erhalten (die „actas de escrutinio“)**. Hier ist ein Beispiel einer solchen "acta" - Tausende Venezolaner haben [in den sozialen Netzwerken Fotos ihrer actas geteilt](https://x.com/DavidRomro/status/1817782928279007350).
 	![[elections2024-fraud-evidence-2024-08-24-13.30.23.excalidraw]]
 3) Die Wahlbehörde sollte die Daten dann **aufgeschlüsselt nach Wahllokal und Wahlgerät veröffentlichen**. Mit den "actas" kann dann **jeder die Daten unabhängig überprüfen**.
-4) Jede "acta" hat einen **digitalen Fingerabdruck, der aus den Wahldaten und einem Geheimschlüssel** gebildet wird, den jede Maschine individuell zufällig wählt. Nach dem Wahltag hat die Wahlbehörde CNE Zugang zu diesen Geheimschlüsseln und kann so **mit Sicherheit verifizieren, ob ein Bilder einer "acta" real oder gefälscht ist**.
+4) Jede "acta" hat einen **digitalen Fingerabdruck, der aus den Wahldaten und einem Geheimschlüssel** gebildet wird, den jede Maschine individuell zufällig wählt. Nach dem Wahltag hat die Wahlbehörde CNE diese Geheimschlüssel. Sprich: Die Wahlbehörde kann **mit wenig Aufwand sicher verifizieren, ob eine "acta" real oder gefälscht ist**.[^asym]
+
+[^asym]: Technisch gesehen ist das Problem, dass hier ein "symmetrisches" Verschlüsselungsverfahren gebraucht wird (HMAC-SHA256). Besser wäre ein asymmetrisches Verfahren wie RSA, sodass die Validität der "actas" unabhängig überprüft werden kann. Das wäre den SSL-Zertifikaten ähnlich, die Webserver brauchen, um ihre Identität zu beweisen.
 
 ![[elections2024-fraud-evidence-2024-08-25-01.05.20.excalidraw]]
 
@@ -53,11 +55,15 @@ Der Opposition gelang es [trotz Obstruktion der Diktatur](https://youtu.be/pb6L4
 ![[2024-07-29-20240808085918.png]]
 
 Gemäss diesen "actas" erhielt **Oppositionskandidat Edmundo González Urrutia 67 Prozent der Stimmen und Maduro 30 Prozent**. Dass die veröffentlichten „actas“ korrekt ausgelesen und addiert sind, wurde von mehreren Organisationen unabhängig überprüft, unter anderem von [the Assocated Press](https://apnews.com/article/venezuela-maduro-machado-biden-gonzalez-a625eb01979bc9cf5570d03242f198b1). Das ist relativ einfach, weil man die Wahldaten aus den QR-Codes auslesen kann.
+
+Sind die "actas" der Opposition echt? Der digitale Fingerabdruck auf den "actas" ist ohne die Geheimschlüssel der Wahlmaschinen nicht unabhängig verifizierbar. Dass sie mit grosser Sicherheit echt sind, zeigen neben allen anderen umliegenden Faktoren aber eine kontrafaktische Überlegung: Wenn die über 25 Tausend "actas" mit einer logistischen Meisterleistung innert kürzester Zeit völlig unbemerkt gefälscht worden wären, **könnte die Wahlbehörde das dank des digitalen Fingerabdrucks auf den "actas" ohne grossen Aufwand darlegen** - wie oben erklärt. Sie müssten nur sagen: Hier ist die richtige "acta", hier die "acta" der Opposition, und hier ist der Geheimschlüssel der Maschine. Der Fingerabdruck zeigt, welche der "actas" echt ist. 
+
+Dafür müsste die Wahlbehörde aber die "actas" veröffentlichen...
 ## Wahlbehörde veröffentlicht Daten nicht
 
-Die Wahlbehörde CNE hat bisher nur Endergebnisse behauptet und **keinerlei "actas" pro Wahlmaschine** veröffentlicht. Das maximale Zeitfenster dafür war nach Wahlgesetz eigentlich nur einige Tage offen.
+Die Wahlbehörde CNE hat bisher nur Endergebnisse behauptet und **keinerlei "actas" pro Wahlmaschine** veröffentlicht. Das maximale Zeitfenster dafür ist gemäss Wahlgesetz nur wenige Tage offen und damit verstrichen.
 
-Die einfachste Erklärung für das Verhalten der Wahlbehörde ist dies: Sie haben keine Gegenstrategie auf das Sammeln der "actas" gefunden. Sie wissen, dass wenn sie genauere Daten veröffentlich würden, der Wahlbetrug nur noch offensichtlicher zutage treten würde.
+Die einfachste Erklärung für das Verhalten der Wahlbehörde ist dies: Sie haben keine Gegenstrategie auf das Sammeln der "actas" gefunden. Sie wissen wegen der digitalen Fingerabdrücke, dass die von der Opposition veröffentlichten "actas" echt sind, und sie können wegen dem Fingerabdruck nicht unbemerkt "actas" fälschen. (Ob dieser letzte Punkt technisch unmöglich ist, muss ich noch genauer abklären.)
 ## Hacking ist ziemlich sicher kein Faktor
 
 Die Wahlbehörde CNE behauptet, sie sei gehackt worden und habe deshalb keine Ergebnisse veröffentlicht. Das ist aus den folgenden Gründen nicht glaubwürdig:
