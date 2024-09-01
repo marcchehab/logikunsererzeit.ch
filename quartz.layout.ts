@@ -16,23 +16,23 @@ const explorer = Component.Explorer({
       // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
       // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
 
-      const aIsDate = /^\d{4}/.test(a.name)
-      const bIsDate = /^\d{4}/.test(b.name)
+      const aHasDate = a.date
+      const bHasDate = b.date
 
-      if (aIsDate && bIsDate) {
+      if (aHasDate && bHasDate) {
         // Reverse order so that newest come first
         return (
           -1 *
-          a.name.localeCompare(b.name, undefined, {
+          aHasDate.localeCompare(bHasDate, undefined, {
             numeric: true,
             sensitivity: "base",
           })
         )
       }
-      if (aIsDate && !bIsDate) {
+      if (aHasDate && !bHasDate) {
         return -1
       }
-      if (!aIsDate && bIsDate) {
+      if (!aHasDate && bHasDate) {
         return 1
       }
 

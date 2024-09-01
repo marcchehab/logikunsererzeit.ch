@@ -8,6 +8,7 @@ import {
   SimpleSlug,
   FilePath,
 } from "../util/path"
+import { formatDate } from "./Date"
 
 type OrderEntries = "sort" | "filter" | "map"
 
@@ -47,6 +48,7 @@ export class FileNode {
   displayName: string
   file: QuartzPluginData | null
   depth: number
+  date: string | null
 
   constructor(slugSegment: string, displayName?: string, file?: QuartzPluginData, depth?: number) {
     this.children = []
@@ -54,6 +56,8 @@ export class FileNode {
     this.displayName = displayName ?? file?.frontmatter?.title ?? slugSegment
     this.file = file ? clone(file) : null
     this.depth = depth ?? 0
+    const dateMatch = slugSegment.match(/\d{4}(-\d{2}(-\d{2})?)?/)
+    this.date = file?.frontmatter?.date as string ?? (dateMatch ? dateMatch[0] : null)
   }
 
   private insert(fileData: DataWrapper) {
@@ -176,6 +180,7 @@ export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodePro
       {node.file ? (
         // Single file node
         <li key={node.file.slug}>
+          { node.date && <p className="date-tagline">{node.date}</p>}
           <a href={resolveRelative(fileData.slug!, node.file.slug!)} data-for={node.file.slug}>
             {node.displayName}
           </a>

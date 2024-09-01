@@ -1,6 +1,7 @@
 ---
 title: Venezuelas gestohlene Wahl - die Beweise
 ogimage: ogmaduro.png
+date: 2024-08-28
 ---
 
 ![[ogmaduro.png]]
