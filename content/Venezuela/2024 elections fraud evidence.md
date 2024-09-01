@@ -15,7 +15,7 @@ Kurz gesagt: Bei den ersten Zahlen, die von der regierungshörigen Wahlbehörde 
 ![[elections2024-fraud-de.mp4]]
 ### Leiterin der einzigen unabhängigen Wahlbeobachtermission: Alle wissen, dass Edmundo gewonnen hat
 
-Die einzigen internationalen Wahlbeobachter, die von der Autokratie eingeladen wurden, waren das Carter Center. [Sie veröffentlichten](https://www.cartercenter.org/news/pr/2024/venezuela-073024.html) zahlreiche Mängel auch im Vorfeld der Wahlen (über die ich [in diesem Video](2024_elections.md) berichtete) und kamen zu dem Schluss, dass die Wahlen "nicht den internationalen Standards der Wahlintegrität entsprachen und **nicht als demokratisch** angesehen werden können". 
+Die einzigen internationalen Wahlbeobachter, die von der Autokratie eingeladen wurden, waren das Carter Center. [Sie veröffentlichten](https://www.cartercenter.org/news/pr/2024/venezuela-073024.html) zahlreiche Mängel auch im Vorfeld der Wahlen (über die ich [in diesem Video](2024%20elections.md) berichtete) und kamen zu dem Schluss, dass die Wahlen "nicht den internationalen Standards der Wahlintegrität entsprachen und **nicht als demokratisch** angesehen werden können". 
 
 > Das Carter Center kann die vom Nationalen Wahlrat (CNE) verkündeten Wahlergebnisse weder überprüfen noch bestätigen, und das Versäumnis der Wahlbehörde, die Ergebnisse nach Wahllokalen aufgeschlüsselt bekannt zu geben, stellt einen schweren Verstoß gegen die Wahlgrundsätze dar.
 > 
