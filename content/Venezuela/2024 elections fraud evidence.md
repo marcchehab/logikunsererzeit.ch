@@ -1,11 +1,13 @@
 ---
-title: Venezuela's stolen election - the evidence
+title: Venezuela's stolen election - the evidence that Maduro lost and Gonzalez won
 ogimage: ogmaduro.png
 date: 2024-08-28
 ---
 ![[ogmaduro.png]]
 
 Unfair and unfree presidential elections were held in Venezuela on 28 July 2024. Despite adverse circumstances, the democratic opposition **won the election against dictator [[Nicolás Maduro]]**. How can we be sure of this? Here is the evidence **sorted by how strong and relevant** I think the evidence is.
+
+If you think something's missing, please [comment here on X](https://x.com/marcchehab/status/1831392625556873281).
 ## Brief explanation of the electronic voting system
 
 **Substantive factual evidence requires a basic understanding** of Venezuela's electoral system. Therefore a short explanation. 
