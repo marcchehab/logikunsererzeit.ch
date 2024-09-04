@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "8c55307bd8387022",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e2fa63d31ef8ff9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2318ab9c4ebaf5e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "USA/us-insanity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af2bbf94b85210be",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "attachments/Excalidraw/polarization 2024-05-18 11.42.29.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6eba5f4189e0414",
+    "type": "split",
+    "children": [
+      {
+        "id": "aee151d55715376c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f920e53a8e83556",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c4d593443db8185",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc12f0b1468c2438",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 483.5
+  },
+  "right": {
+    "id": "a179b494e9f50105",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa072ff09c396a44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8f722ed884829d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "attachments/Excalidraw/polarization 2024-05-18 11.42.29.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "905217f510da545a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "attachments/Excalidraw/polarization 2024-05-18 11.42.29.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8e6d0e743d64113",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8f23d4c48e00615e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "attachments/Excalidraw/polarization 2024-05-18 11.42.29.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "af2bbf94b85210be",
+  "lastOpenFiles": [
+    "attachments/Excalidraw/polarization 2024-05-18 11.42.29.excalidraw.light.svg",
+    "attachments/Excalidraw/polarization 2024-05-18 11.42.29.excalidraw.dark.svg",
+    "Pasted Image 20240521231019_608.svg",
+    "Pasted Image 20240521230923_985.png",
+    "USA/us-insanity.md",
+    "Pasted Image 20240518114316_181.svg",
+    "Pasted Image 20240518121652_261.png",
+    "Pasted Image 20240518122947_167.png",
+    "Pasted image 20240520094429.png",
+    "attachments/Excalidraw/polarization 2024-05-18 10.43.26.excalidraw.md",
+    "Venezuela/attachments/elections2024-2024-05-01-09.40.07.excalidraw.md",
+    "USA/polarization.md",
+    "Venezuela/elections2024.md",
+    "index.md",
+    "attachments/Excalidraw/index-2024-04-02-23.39.18.excalidraw.dark.svg",
+    "attachments/Excalidraw/index-2024-04-02-23.39.18.excalidraw.light.svg",
+    "Archiv/2015 grosse ideen.md",
+    "Venezuela/attachments/ballot-ogimage.png",
+    "Venezuela/background/Nicolás Maduro.md",
+    "Venezuela/background/María Corina Machado.md",
+    "Venezuela/background/Edmundo González.md",
+    "mieten.md",
+    "Aktuelle Recherchen/bla.md",
+    "attachments/Excalidraw/template.excalidraw.md",
+    "Venezuela/background/attachments",
+    "Venezuela/background",
+    "Venezuela/attachments/attachments",
+    "Venezuela/attachments",
+    "Venezuela",
+    "Aktuelle Recherchen/attachments/bla-2024-04-11-09.10.35.excalidraw.md",
+    "Aktuelle Recherchen/attachments",
+    "Aktuelle Recherchen/bla 2024-04-11 09.08.37.excalidraw.md",
+    "Excalidraw/bla 2024-04-11 09.04.56.excalidraw.md",
+    "Excalidraw",
+    "attachments/Excalidraw/index-2024-04-02-23.39.18.excalidraw.md",
+    "attachments/Excalidraw",
+    "attachments",
+    "attachments/net-99-abschlussauftrag-g1.mp4",
+    "Excalidraw/index 2024-04-02 23.39.18.excalidraw.md"
+  ]
+}
