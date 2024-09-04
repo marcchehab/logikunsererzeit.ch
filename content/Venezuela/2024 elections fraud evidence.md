@@ -1,5 +1,5 @@
 ---
-title: Venezuela's stolen election - the evidence that Maduro lost and Gonzalez won
+title: Maduro stole Venezuela's election - the evidence
 ogimage: ogmaduro.png
 date: 2024-08-28
 ---
