@@ -1,74 +1,74 @@
 ---
-title: Venezuelas gestohlene Wahl - die Beweise
+title: Venezuela's stolen election - the evidence
 ogimage: ogmaduro.png
 date: 2024-08-28
 ---
-
 ![[ogmaduro.png]]
 
-Am 28. Juli 2024 fanden in Venezuela unfaire und unfreie Präsidentschaftswahlen statt. Trotz widriger Umstände **gewann die demokratische Opposition die Wahl gegen Diktator [[Nicolás Maduro]]**. Wie kann man sich dessen sicher sein? Hier die Beweise.
+Unfair and unfree presidential elections were held in Venezuela on 28 July 2024. Despite adverse circumstances, the democratic opposition **won the election against dictator [[Nicolás Maduro]]**. How can we be sure of this? Here is the evidence **sorted by how strong and relevant** I think the evidence is.
+## Brief explanation of the electronic voting system
 
-## Beweise, die man ohne Sachkenntnis verstehen kann
-### Kein Rundungsfehler bei gefälschten Ergebnissen
+**Substantive factual evidence requires a basic understanding** of Venezuela's electoral system. Therefore a short explanation. 
 
-Kurz gesagt: Bei den ersten Zahlen, die von der regierungshörigen Wahlbehörde CNE veröffentlicht wurden, gibt es **keine Rundungsfehler, die natürlicherweise auftreten müssten**. Wenn man tatsächlich die Stimmen zählen und dann die Prozentzahl ausrechnen würde, wäre das unmöglich. Das geht nur, indem man **zuerst die Prozentzahl bestimmt und dann die Anzahl Stimmen erfindet**. Ein Erklärvideo dazu:
+The core of the semi-automatic **voting system in Venezuela is technically quite robust**. It is based on the fact that votes are recorded on paper and electronically in parallel and can be verified **independently**.
 
-![[elections2024-fraud-de.mp4]]
-### Leiterin der einzigen unabhängigen Wahlbeobachtermission: Alle wissen, dass Edmundo gewonnen hat
-
-Die einzigen internationalen Wahlbeobachter, die von der Autokratie eingeladen wurden, waren das Carter Center. [Sie veröffentlichten](https://www.cartercenter.org/news/pr/2024/venezuela-073024.html) zahlreiche Mängel auch im Vorfeld der Wahlen (über die ich [in diesem Video](2024%20elections.md) berichtete) und kamen zu dem Schluss, dass die Wahlen "nicht den internationalen Standards der Wahlintegrität entsprachen und **nicht als demokratisch** angesehen werden können". 
-
-> Das Carter Center kann die vom Nationalen Wahlrat (CNE) verkündeten Wahlergebnisse weder überprüfen noch bestätigen, und das Versäumnis der Wahlbehörde, die Ergebnisse nach Wahllokalen aufgeschlüsselt bekannt zu geben, stellt einen schweren Verstoß gegen die Wahlgrundsätze dar.
-> 
-> - [Carter Center](https://www.cartercenter.org/news/pr/2024/venezuela-073024.html)
-
-Jennie Lincoln, die Leiterin der Mission des Carter Centers in Venezuela, bestätigte sogar **zwei Mal, dass Edmundo gewonnen hat**. "Die Regierung, die Regierungspartei und die Opposition **wissen, dass Edmundo González die Wahl** mit fast zwei zu eins gewonnen hat", sagte sie gegenüber [NPR](https://www.npr.org/2024/08/06/nx-s1-5064231/the-integrity-of-the-venezuelan-presidential-election-is-under-scrutiny). 
-
-[Agence France-Presse](https://www.voanews.com/a/no-evidence-venezuela-vote-hacked-carter-center-election-monitor-says/7734334.html) sprach ebenfalls mit ihr und berichtete: "Das Zentrum hat dieselben Zahlen aus den verfügbaren Daten ausgewertet, die die Opposition verwendet hat, und hat - zusammen mit anderen Organisationen und Universitäten - González mit mehr als 60 % der Stimmen als Sieger bestätigt."
-
-### Umfragen vor und nach der Wahl zeigen Sieg von González
-
-[Umfragen vor den Wahlen](https://es.wikipedia.org/wiki/Anexo:Encuestas_y_sondeos_de_intenci%C3%B3n_de_voto_para_las_elecciones_presidenciales_de_Venezuela_de_2024) deuteten darauf hin, dass González wohl zweimal so viele Stimmen wie Maduro erhalten würde.
-
-Edison Research veröffentlichte eine **Nachwahlbefragung, aus der hervorging, dass González 65 Prozent** der Stimmen erhielt, während Maduro auf 31 Prozent kam. Das Unternehmen führt hochkarätige Wahlumfragen in den Vereinigten Staaten und anderen Ländern durch. "Die offiziellen Ergebnisse sind lächerlich", sagte Edison Executive Vice President Rob Farbman [in einer E-Mail an Reuters](https://www.reuters.com/world/americas/government-opposition-both-claim-venezuela-election-win-official-results-2024-07-29/) und erklärte, dass man zu den Ergebnissen der Umfrage stehe. Die Umfrage von Edison wurde landesweit mit vorläufigen Daten von 6'846 Wählern durchgeführt, die in 100 Wahllokalen befragt wurden.
-
-Das venezolanische Unternehmen Meganalisis [veröffentlichte ebenfalls eine Umfrage nach den Wahlen](https://x.com/Meganalisis/status/1817699015359639966) und sagte **65 Prozent der Stimmen für González** und knapp 14 Prozent für Maduro voraus.
-## Kurze Erklärung des elektronischen Wahlsystems
-
-Substantielle Sachbeweise setzen voraus, dass man Venezuelas Wahlsystem im Ansatz  kennt. Deswegen eine kurze Erklärung. 
-
-Der Kern des halbautomatischen **Wahlsystems in Venezuela ist technisch gesehen recht robust**. Es beruht darauf, dass die Stimmen auf Papier sowie elektronisch parallel erfasst werden und **unabhängig überprüft werden können**.
-
-1) Alle Wahlmaschinen operieren am Wahltag völlig autonom. Sie summieren, übermitteln und drucken ihre Stimmauszählung erst, wenn sie am Ende des Wahltags geschlossen werden.
-2) Registrierte Zeugen und Wähler haben das Recht, diese **Stimmenauszählung ihrer Wahlmaschinen zu erhalten (die „actas de escrutinio“)**. Hier ist ein Beispiel einer solchen "acta" - Tausende Venezolaner haben [in den sozialen Netzwerken Fotos ihrer actas geteilt](https://x.com/DavidRomro/status/1817782928279007350).
+1) All voting machines operate autonomously on election day. They only totalise, transmit and print their vote count when they are closed at the end of polling day.
+2) Registered witnesses and voters have the right to receive this **vote count from their voting machines (the 'actas de escrutinio')**. Here is an example of such an 'acta' - hundreds of Venezuelans have [shared photos of their actas on social media](https://x.com/DavidRomro/status/1817782928279007350).
 	![[elections2024-fraud-evidence-2024-08-24-13.30.23.excalidraw]]
-3) Die Wahlbehörde sollte die Daten dann **aufgeschlüsselt nach Wahllokal und Wahlgerät veröffentlichen**. Mit den "actas" kann dann **jeder die Daten unabhängig überprüfen**.
-4) Jede "acta" hat einen **digitalen Fingerabdruck, der aus den Wahldaten und einem Geheimschlüssel** gebildet wird, den jede Maschine individuell zufällig wählt. Nach dem Wahltag hat die Wahlbehörde CNE diese Geheimschlüssel. Sprich: Die Wahlbehörde kann **mit wenig Aufwand sicher verifizieren, ob eine "acta" real oder gefälscht ist**.[^asym]
 
-[^asym]: Technisch gesehen ist das Problem, dass hier ein "symmetrisches" Verschlüsselungsverfahren gebraucht wird (HMAC-SHA256). Besser wäre ein asymmetrisches Verfahren wie RSA, sodass die Validität der "actas" unabhängig überprüft werden kann. Das wäre den SSL-Zertifikaten ähnlich, die Webserver brauchen, um ihre Identität zu beweisen.
+3) The electoral authority should then publish the data **broken down by polling station and voting machine**. That way anyone with an 'acta' **can independently verify the data**.
+4) Importantly, each 'acta' has a **digital fingerprint formed from the voting data and a secret key that each machine chooses individually at random**. After election day, the electoral authority CNE has access to these secret keys. In other words, **the electoral authority can verify with little effort whether an 'acta' or a picture of it is real or fake**.
+
+[^asym]: From a technical point of view, the problem is that a 'symmetric' encryption method is used here (HMAC-SHA256). An asymmetric method such as RSA would be better, so that the validity of the 'actas' can be checked independently. This would be similar to the SSL certificates that web servers need to prove their identity.
 
 ![[elections2024-fraud-evidence-2024-08-25-01.05.20.excalidraw]]
 
-## Gesammelte "actas" zeigen: González hat gewonnen
+## Collected 'actas' show: González won
 
-Der Opposition gelang es [trotz Obstruktion der Diktatur](https://youtu.be/pb6L451bnkk?si=8Hk4A7ymGKmXwAoE&t=194), **über 80 Prozent der "actas" in den Wahllokalen zu sammeln** und sie auf https://resultadosconvzla.com/ zu veröffentlichen. Ziviler Ungehorsam von Wahlhelfern und Militäreinheiten half in einigen Fällen.
+The opposition succeeded [despite the dictatorship's obstruction](https://youtu.be/pb6L451bnkk?si=8Hk4A7ymGKmXwAoE&t=194) in collecting **over 80 per cent of the 'actas' in the polling stations** and publishing them on https://resultadosconvzla.com/. Civil disobedience by election workers and military units helped in some cases.
 
 ![[2024-07-29-20240808085918.png]]
 
-Gemäss diesen "actas" erhielt **Oppositionskandidat Edmundo González Urrutia 67 Prozent der Stimmen und Maduro 30 Prozent**. Dass die veröffentlichten „actas“ korrekt ausgelesen und addiert sind, wurde von mehreren Organisationen unabhängig überprüft, unter anderem von [the Assocated Press](https://apnews.com/article/venezuela-maduro-machado-biden-gonzalez-a625eb01979bc9cf5570d03242f198b1). Das ist relativ einfach, weil man die Wahldaten aus den QR-Codes auslesen kann.
+According to these 'actas', **opposition candidate Edmundo González Urrutia received 67 per cent of the vote and Maduro 30 per cent**. Several organisations, including [the Associated Press](https://apnews.com/article/venezuela-maduro-machado-biden-gonzalez-a625eb01979bc9cf5570d03242f198b1), have verified that the published 'actas' have been correctly read out and added up. This is relatively easy because the election data can be read from the QR codes.
 
-Sind die "actas" der Opposition echt? Der digitale Fingerabdruck auf den "actas" ist ohne die Geheimschlüssel der Wahlmaschinen nicht unabhängig verifizierbar. Dass sie mit grosser Sicherheit echt sind, zeigen neben allen anderen umliegenden Faktoren aber eine kontrafaktische Überlegung: Wenn die über 25 Tausend "actas" mit einer logistischen Meisterleistung innert kürzester Zeit völlig unbemerkt gefälscht worden wären, **könnte die Wahlbehörde das dank des digitalen Fingerabdrucks auf den "actas" ohne grossen Aufwand darlegen** - wie oben erklärt. Sie müssten nur sagen: Hier ist die richtige "acta", hier die "acta" der Opposition, und hier ist der Geheimschlüssel der Maschine. Der Fingerabdruck zeigt, welche der "actas" echt ist. 
+Are the **opposition's 'actas' genuine?** The **digital fingerprint** on the 'actas' cannot be independently verified without the secret keys of the voting machines. However, a counterfactual consideration, along with all the other surrounding factors, shows that they are almost certainly genuine: Let's imagine the more than 25 thousand 'actas' had been forged completely undetected within a very short space of time in a logistical masterstroke. If that were the case, **the electoral authorities would be able to demonstrate this without great effort thanks to the digital fingerprint on the 'actas'** - as explained above. They would only have to say: Here is the correct 'acta', here is the 'acta' of the opposition, and here is the actual secret key of the machine. The fingerprint proves which of the 'actas' is genuine. 
 
-Dafür müsste die Wahlbehörde aber die "actas" veröffentlichen...
-## Wahlbehörde veröffentlicht Daten nicht
+But for that, the electoral authority would have to have real actas that it can publish...
+## Electoral authority does not publish data
 
-Die Wahlbehörde CNE hat bisher nur Endergebnisse behauptet und **keinerlei "actas" pro Wahlmaschine** veröffentlicht. Das maximale Zeitfenster dafür ist gemäss Wahlgesetz nur wenige Tage offen und damit verstrichen.
+The electoral authority CNE has so far only published aggregated results, which amounts to **nothing more than a claim**. It **has not published any data per voting machine, let alone 'actas'**. According to the electoral law, the maximum time window for this is only a few days and has therefore expired.
 
-Die einfachste Erklärung für das Verhalten der Wahlbehörde ist dies: Sie haben keine Gegenstrategie auf das Sammeln der "actas" gefunden. Sie wissen wegen der digitalen Fingerabdrücke, dass die von der Opposition veröffentlichten "actas" echt sind, und sie können wegen dem Fingerabdruck nicht unbemerkt "actas" fälschen. (Ob dieser letzte Punkt technisch unmöglich ist, muss ich noch genauer abklären.)
-## Hacking ist ziemlich sicher kein Faktor
+The simplest explanation for the behaviour of the electoral authorities is this: They have not found a counter-strategy to the collection of the 'actas'. Because of the digital fingerprints, they know that the 'actas' published by the opposition are genuine, and they cannot forge 'actas' unnoticed because of the fingerprint. (I still need to verify whether this last point is actually technically impossible).
+## No rounding error in initial fraudulent results
 
-Die Wahlbehörde CNE behauptet, sie sei gehackt worden und habe deshalb keine Ergebnisse veröffentlicht. Das ist aus den folgenden Gründen nicht glaubwürdig:
-- Das Wahlnetz ist gar nicht mit dem Internet verbunden. Der stellvertretende Missionschef des Carter Centers in Venezuela, Patricio Ballados, [sagte](https://elestimulo.com/elecciones-2024/2024-08-04/centro-carter-no-hackeo-elecciones-venezuela/#Echobox=1722819448): "Ein Angriff über das Internet wäre praktisch unmöglich, denn es gab ausschliesslich spezielle Kanäle für die Übermittlung von Daten der CNE, die von der Behörde einige Tage vor der Wahl als eine der Sicherheitsvorkehrungen und eine der größten Stärken des Systems dargestellt wurden". 
-- Es gäbe eine komplett analoge Art, ein Ergebnis zu beweisen: die einzelnen Papierstimmzettel in den Urnen oder die physischen "actas" der Maschinen.
-- Es gibt [technische Gründe](https://x.com/phenobarbital/status/1818990019761091059), die darauf hindeuten, dass es das Regime selbst war, das die CNE-Website abgeschaltet hat.
-- Die CNE behauptete, der Angriff sei aus Nordmazedonien gekommen, hat dort aber nie 
+In short: in the first figures published by the government-owned electoral authority CNE, there are **no rounding errors that should naturally occur**. If you were to actually count the votes and then calculate the percentage, it would be impossible. This is only possible by **first determining the percentage and then inventing the number of votes**. An explanatory video:
+
+![[https://www.youtube.com/watch?v=9nXw9xRSReg]]
+## Head of the only independent election observer mission: Everyone knows Edmundo won
+
+The only international election observers invited by the autocracy were the Carter Center. [They published](https://www.cartercenter.org/news/pr/2024/venezuela-073024.html) numerous flaws even in the run-up to the elections (which I reported [in this video](2024%20elections.md)) and concluded that the elections 'did not meet international standards of electoral integrity and **cannot be considered democratic**.' 
+
+> The Carter Center cannot verify or certify the election results announced by the National Electoral Council (CNE), and the electoral authority's failure to announce the results by polling station is a serious violation of electoral principles.
+> 
+> - [Carter Centre](https://www.cartercenter.org/news/pr/2024/venezuela-073024.html)
+
+Jennie Lincoln, the head of the Carter Centre's mission in Venezuela, confirmed at least **twice that Edmundo won**. 'The government, the ruling party and the opposition **know that Edmundo González won the election** by almost two to one,' she told [NPR](https://www.npr.org/2024/08/06/nx-s1-5064231/the-integrity-of-the-venezuelan-presidential-election-is-under-scrutiny). 
+
+[Agence France-Presse](https://www.voanews.com/a/no-evidence-venezuela-vote-hacked-carter-center-election-monitor-says/7734334.html) also spoke to her and reported: 'The Centre has analysed the same figures from the available data that the opposition used and - together with other organisations and universities - has confirmed González as the winner with more than 60% of the vote.'
+
+## Polls before and after the election show victory for González
+
+[Pre-election polls](https://es.wikipedia.org/wiki/Anexo:Encuestas_y_sondeos_de_intenci%C3%B3n_de_voto_para_las_elecciones_presidenciales_de_Venezuela_de_2024) indicated that González would probably receive twice as many votes as Maduro.
+
+Edison Research published a **post-election poll showing that González received 65 per cent** of the vote, compared to 31 per cent for Maduro. The company conducts high-profile election polls in the United States and other countries. 'The official results are ridiculous,' Edison Executive Vice President Rob Farbman said [in an email to Reuters](https://www.reuters.com/world/americas/government-opposition-both-claim-venezuela-election-win-official-results-2024-07-29/), explaining that they stand by the results of the poll. Edison's poll was conducted nationwide with preliminary data from 6,846 voters interviewed at 100 polling stations.
+
+The Venezuelan company Meganalisis [also published a post-election poll](https://x.com/Meganalisis/status/1817699015359639966) and predicted **65 per cent of the vote for González** and just under 14 per cent for Maduro.
+
+## Hacking is almost certainly not a factor
+
+The electoral authority CNE **claims that it was hacked** and therefore did not publish any results. This is not credible for the following reasons:
+- The CNE offered **no evidence to back up the claim**.
+- The **electoral network is not connected to the internet** at all. The Carter Centre's deputy chief of mission in Venezuela, Patricio Ballados, [said](https://elestimulo.com/elecciones-2024/2024-08-04/centro-carter-no-hackeo-elecciones-venezuela/#Echobox=1722819448): 'An attack via the Internet would be practically impossible, because there were exclusively special channels for the transmission of CNE data, which were presented by the authority a few days before the election as one of the security precautions and one of the greatest strengths of the system'. 
+- There would be a completely analogue way of proving a result: the individual paper ballots in the ballot boxes or the physical 'actas' of the machines.
+- There are [technical reasons](https://x.com/phenobarbital/status/1818990019761091059) to suggest that it was the regime itself that shut down the CNE website.
+- Venezuelan "Attorney General" Tarek Saab originally claimed the attack originated from North Macedonia. North Macedonia said Venezuelan authorities offered no evidence and didn't seek legal assistance, [as Radio Free Europe reported](https://www.rferl.org/a/north-macedonia-venezuela-protests-maduro-cyberattack/33056611.html). Later Saab shifted the story and said it was a hacker named Astra. A person claiming to be Astra gave [Publimetro an interview](https://www.publimetro.com.mx/noticias/2024/08/14/astra-rompe-el-silencio-del-hackeo-mundial-a-liderar-la-ciberguerra-contra-maduro/) and claimed they did hack the CNE, but didn't interfere with the voting but rather gathered evidence of fraud. (I'm not sure what to make of the interview.)
