@@ -1,5 +1,5 @@
-.cm-strong {
-    color: hsl(30deg, 100%, 60%);
+.cm-strong, strong {
+    color: hsl(30deg, 100%, 60%) !important;
 }
 .cm-header {
     font-weight: bold;
