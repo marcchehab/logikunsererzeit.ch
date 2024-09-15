@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "af2bbf94b85210be",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "attachments/Excalidraw/polarization 2024-05-18 11.42.29.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/Excalidraw/polarization 2024-05-18 11.42.29.excalidraw.md",
+                "file": "USA/us-insanity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/Excalidraw/polarization 2024-05-18 11.42.29.excalidraw.md",
+                "file": "USA/us-insanity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/Excalidraw/polarization 2024-05-18 11.42.29.excalidraw.md"
+                "file": "USA/us-insanity.md"
               }
             }
           }
@@ -158,8 +147,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af2bbf94b85210be",
+  "active": "2318ab9c4ebaf5e2",
   "lastOpenFiles": [
+    "attachments/Excalidraw/polarization 2024-05-18 11.42.29.excalidraw.md",
     "attachments/Excalidraw/polarization 2024-05-18 11.42.29.excalidraw.light.svg",
     "attachments/Excalidraw/polarization 2024-05-18 11.42.29.excalidraw.dark.svg",
     "Pasted Image 20240521231019_608.svg",
@@ -177,7 +167,6 @@
     "attachments/Excalidraw/index-2024-04-02-23.39.18.excalidraw.dark.svg",
     "attachments/Excalidraw/index-2024-04-02-23.39.18.excalidraw.light.svg",
     "Archiv/2015 grosse ideen.md",
-    "Venezuela/attachments/ballot-ogimage.png",
     "Venezuela/background/Nicolás Maduro.md",
     "Venezuela/background/María Corina Machado.md",
     "Venezuela/background/Edmundo González.md",

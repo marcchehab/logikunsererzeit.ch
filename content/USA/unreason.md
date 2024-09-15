@@ -1,83 +1,82 @@
 ---
-title: Wieso versinken US-Republikaner in der Unvernunft?
+title: The Republican Party's Descent into Unreason
 date: 2024-06-01
 ---
-## Zusammenfassung
-- In den USA dominieren **majoritäre Wahlsysteme**, die ständig ein **Duopol von zwei Parteien** reproduzieren. Die Parteien haben dieses Demokratiedefizit durch die Einführung von **Vorwahlen** überspielt.
-- In den letzten 30 Jahren hat eine „Sortierung“ der Wählerschaft dazu geführt, dass die Wahlbezirke immer deutlicher entweder auf die Demokraten oder die Republikaner ausgerichtet sind, was zu **vielen unangefochtenen Einparteienwahlbezirken** geführt hat.
-- Diese Verschiebung erhöht die **Bedeutung der Vorwahlen**, die von den militantesten Parteimitgliedern und wohlhabenden Spendern dominiert werden. Dies betrifft die **Republikanische Partei** stärker, weil ihre Aktivisten und Spender **homogener** sind.
-- Gleichzeitig **verzerrt das große Geld** von wohlhabenden Spendern und Geschäftsinteressen die Positionen beider Parteien. Die republikanischen Eliten setzen sich deswegen für Positionen ein, die ihre Basis nicht unterstützt, wie etwa Steuersenkungen für Reiche.
-- Diese Konstellation ist sehr anfällig für eine **Populistenrevolte gegen die Parteieliten** in den Vorwahlen - und genau das war Donald Trump.
+## Summary
+- To begin with: The US is dominated by **majoritarian electoral systems** that constantly reproduce a **duopoly of two parties**. The parties have papered over this **external democratic deficit** by introducing **internal democratic reforms**, chiefly, **primary elections**.
+- Over the past 30 years, a ‘sorting’ of the electorate has resulted in many districts that are heavily tilted towards either the Democrats or the Republicans, with **many uncontested, effectively one-party constituencies**.
+- This shift further increases the **importance of primaries**, which are dominated by the most militant party members and wealthy donors. This affects the **Republican Party** more because its activists and donors are **more homogeneous**.
+- At the same time, **big money** from wealthy donors and business interests **distorts** the positions of both parties. The Republican elites advocate positions that their base does not support, such as tax cuts for the wealthy. 
+- This constellation is highly susceptible to a **populist revolt against the party elites** in the primaries - and that is exactly what Donald Trump was.
 
-Seit weit über einem Jahrzehnt versinkt die US-Politik und vor allem die Republikaner immer tiefer im Sumpf der Unvernunft. Aber warum?
-## Kontext: Grösse und Wahlsystem
+For well over a decade, US politics, and the Republicans in particular, have been sinking deeper and deeper into the swamp of unreason. But why? A recipe for the disaster.
+## Start with a large size and add unjust voting systems
 
-Der Hintergrund ist die **Grösse** und das **Wahlsystem** der USA.
-### Ähnlich in der Grösse wie die EU
+### Comparison to Europe
 
-Warum Grösse? In der Schweiz zieht man schnell eine Analogie zwischen der US-Hauptstadt Washington und der Schweizer Hauptstadt Bern. Eine bessere Analogie wäre folgende: **Washington ist weniger wie Bern, sondern eher wie Brüssel**. In dieser Analogie sind die europäischen Länder wie die Bundesstaaten der USA und die Brüssel wie Washington. So gesehen, klingt ein Teil der schrillen Rhetorik gar nicht fremd - ja sogar heimisch. Föderalismus und eine Abneigung gegen abgehobene Zentralmächte ist Teil der Schweizer Identität. Die Parole "weniger Macht für Brüssel, mehr Autonomie den Staaten" wird verschieden verpackt und in verschiedenen Sprachen in ganz Europa skandiert. Die Briten sind mit dem Slogan "Take Back Control" sogar aus der EU ausgetreten.
+In Switzerland, people are quick to draw an analogy between the US capital Washington and the Swiss capital Bern. Size-wise and psychologically, a better analogy would be the EU:  **Washington is like Brussels, the US like the EU, and US states are like member states of the EU**. Seen in this light, some of the shrill rhetoric doesn't sound foreign at all. After all, federalism and an aversion to aloof centralised power are part and parcel of Swiss identity. The slogan ‘less power to Brussels, more autonomy for the states’ is chanted in different languages throughout Europe. The British have even left the EU under the banner of ‘Take Back Control’ (and considerable paranoia and lies about it).
 
-In den USA spiegelt sich diese Haltung in Umfragen wider: **Das Vertrauen in Institutionen geht Hand in Hand mit ihrer Distanz zu den Bürgern**. Die Amerikaner vertrauen ihrer Gemeinde am meisten, ihrem Bundesstaat etwas weniger und Washington am wenigsten.[^Vertrauen]
+In the USA, this attitude is reflected in surveys: **Trust in institutions goes hand in hand with their distance from citizens**. Americans trust their community the most, their state a little less and Washington the least.[^trust]
 
 ![[polarization-2024-05-18-10.43.26.excalidraw]]
-*[Amerikaner vertrauen lokalen Behörden am meisten, dem Kongress am wenigsten. 2023. Gallup.](https://news.gallup.com/poll/512651/americans-trust-local-government-congress-least.aspx)*
+*[Cititzens trust their local authorities the most and congress the least. 2023. Gallup.](https://news.gallup.com/poll/512651/americans-trust-local-government-congress-least.aspx)*
 
-[^Vertrauen]: Unter den nationalen Institutionen schneiden diejenigen besser ab, die weniger Entscheidungsfreiheit haben: Das meiste Vertrauen geniesst der Oberste Gerichtshof der USA, dann der Präsident und schliesslich die eigentliche Vertretung des Volkes: der Kongress.
-### Majorzwahlen
-Nun verwendet dieses riesige Land **Wahlsysteme**, die den beiden dominierenden Parteien einen grossen Vorteil verschaffen: Es handelt sich fast ausnahmslos um **Majorzwahlen**, bei denen der Verlierer leer ausgeht (wie bei Ständeratswahlen in der Schweiz). Es gibt nur wenige Proporzwahlen (wie bei Nationalratswahlen in der Schweiz).
+[^trust]: Among federal institutions, those that have less political decision power perform better: The US Supreme Court enjoys the most trust, followed by the President and finally the actual representation of the people: Congress.
+### Add majoritarian voting systems
+This huge country uses **election systems** that give the two dominant parties a big advantage: They predominantly use **majoritarian elections** in which the winner takes it all and the loser goes away empty-handed. There are only a few proportional elections.
 
-Majorzwahlen neigen von ihrer Logik her dazu, die Entscheidung auf **zwei Möglichkeiten** zu reduzieren. Wieso? Weil nur wenige ihre Stimme für aussichtslose Kandidaten verschwenden. Man gibt seine Stimme lieber einer zweitliebsten, aber aussichtsvolleren Option[^Wahlsystem] - oder auch nur dem kleineren zweier Übel, wie bei diesen US-Präsidentschaftswahlen.
+Majoritarian elections tend by their logic to reduce the decision to **two options**. Why? Because few people waste their vote on unpromising candidates if the winner takes it all. People are (entirely reasonably) voting for the lesser of two evils.[^electionsystem]
 
-[^Wahlsystem]: Heywood, Andrew. _Politics_. Basingstoke: Palgrave Macmillan, 2007. 209.
+[^electionsystem]: Heywood, Andrew. _Politics_. Basingstoke: Palgrave Macmillan, 2007. 209.
 
-Diese Logik erklärt, warum es im US-Kongress im Laufe seiner turbulenten Geschichte **fast immer zwei dominierende Parteien** gegeben hat. Es sind die **majoritären Wahlsysteme der USA**, die das Duopol der Demokraten und Republikaner seit 1857 zementieren.
+This logic explains why there have **almost always been two dominant parties** in the US Congress throughout its turbulent history. So it's the **majoritarian electoral systems** that cement the duopoly of the Democrats and Republicans since 1857 - not their appeal.
 
 ![[polarization-2024-05-21-23.03.43.excalidraw]]
-*Prozentualer Anteil der Sitze im Repräsentantenhaus, die nicht von den beiden grössten Parteien gehalten werden.[^ushistory]*
+*Percentage of seats in the House of Representatives that are not held by the two largest parties.[^ushistory]*
 [^ushistory]: https://history.house.gov/Institution/Party-Divisions/Party-Divisions/
 
-In der Schweiz hat man diesen Effekt der Majorzwahlen bereits früh erkannt und nach dem Ersten Weltkrieg - im dritten Anlauf - das Verhältniswahlrecht eingeführt. Hier ist ein Schweizer Wahlplakat aus dem Jahr 1918, das bei US-Amerikanern wahrscheinlich noch heute Anklang finden würde:
+In Switzerland, this effect of majoritarian elections was recognised in the first decades of the modern republic and after the First World War proportional representation was introduced. Here is a **Swiss election poster from 1918 that I'm sure still speaks from the heart of many an American today**. The left image depicts majoritarian representation, the right proportional:
 
 ![[polarization-20240522080512.png]]
-*"Gerechtigkeit erhebt eine Nation! Eidgenossen, stimmt ab: Ja! am 13. Oktober" Ein Schweizer Wahlplakat für das Verhältniswahlrecht von 1918.[^wahlplakat]*
+*‘Justice raises a nation! Confederates, vote: Yes! on 13 October’ A Swiss election poster for the proportional representation system of 1918.[^wahlplakat]*
 
-[^wahlplakat]: [Verifizierte Quelle (niedrige Qualität)](https://nb-posters.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000719509703978&context=L&vid=41SNL_53_INST:posters&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,proporz&offset=0)
+[^wahlplakat]: [Verified source (though lower quality)](https://nb-posters.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000719509703978&context=L&vid=41SNL_53_INST:posters&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,proporz&offset=0)
 
-Die Wirkung des Verhältniswahlrechts in der Schweiz war abrupt: Zu den regierenden Liberalen und Konservativen gesellten sich zunehmend Sozialdemokraten und die BGB. So entstand das moderne **Vierparteiensystem**, das die Schweiz durch das turbulente 20. Jahrhundert führte.
+The effect of proportional representation in Switzerland was abrupt: the ruling Liberals and Conservatives were increasingly joined by the Social Democrats and the BGB. This gave rise to the modern **four-party system** that guided Switzerland through the turbulent 20th century.
 
 ![[polarization-20240522080932.png]]
-*Die Nationalratswahlen von 1919, die erste Proporzwahl. Quelle: [Historisches Lexikon der Schweiz](https://hls-dhs-dss.ch/de/articles/017363/2016-03-24/)*
+*The National Council elections of 1919, the first proportional representation election. Source: [Historical Dictionary of Switzerland](https://hls-dhs-dss.ch/de/articles/017363/2016-03-24/)*
 
-Unsere Schwesterrepublik jenseits des Atlantiks hat es hingegen versäumt, ihr Wahlsystem zu modernisieren. Stattdessen überspielten Demokraten und Republikaner das allgemeine Demokratiedefizit mit einer **parteiinternen Demokratisierung**: Sie führten **Vorwahlen** ein, die Politiker gewinnen mussten, um bei den Parlamentswahlen als Kandidat der Partei antreten zu können.
+Our sister republic on the other side of the Atlantic, however, failed to modernise its electoral system. Instead, Democrats and Republicans papered over this flagrant democratic deficit with **internal party democratisation**: They introduced **primaries** that politicians had to win in order to run as the party's candidate in the general election.
 
-Das ist wichtig, denn die **Anreize bei Vorwahlen unterscheiden sich** deutlich von denen bei allgemeinen Wahlen: Bei Vorwahlen müssen die Kandidaten in erster Linie **die Parteibasis überzeugen, nicht die breite Bevölkerung**. Wie Jonathan Rauch 2016 im Atlantic schrieb[^rauch]: "Vorwahlen werden heute tendenziell von **hochmotivierten Extremisten und Interessengruppen** dominiert, mit dem perversen Ergebnis, dass gemässigte, breitere und weniger gut organisierte Wählergruppen unterrepräsentiert bleiben."
+This is important because the **incentives in primary elections** are very different from those in general elections: In primaries, candidates must first and foremost **convince the party base, not the general population**. As Jonathan Rauch wrote in the Atlantic in 2016[^rauch]: ‘Primary races now tend to be dominated by **highly motivated extremists and interest groups**, with the perverse result of leaving moderates and broader, less well-organized constituencies underrepresented.’ You can see this in presidential elections: **In the primaries, candidates play to the poles; then in the election, they play to the centre.**
 
-[^rauch]: Sein [Artikel](http://www.theatlantic.com/magazine/archive/2016/07/how-american-politics-went-insane/485570/) erhielt im Wahljahr 2016 viel Aufmerksamkeit.
+[^rauch]: His [article](http://www.theatlantic.com/magazine/archive/2016/07/how-american-politics-went-insane/485570/) got a lot of attention in 2016.
 
-## Geld sortieren und hinzufügen
+## Sort and add loads of money
 
-Zu dieser Verschiebung in Richtung Vorwahlen kommen nun zwei Entwicklungen hinzu.
-### Die "Grosse Sortierung"
+This shift towards primaries is now being compounded by two developments.
+### The ‘Great Sort’
 
-In den letzten Jahrzehnten haben sich die Wahlbezirke sehr viel stärker **einer der Parteien angeschlossen**, was zu **vielen unangefochtenen Einparteienbezirken** geführt hat. Dies ist meines Wissens auf allen Regierungsebenen und bei allen Wahlen zu beobachten.
+In recent decades, constituencies have become much more **aligned** with one of the parties, resulting in **many uncontested one-party districts**. To my knowledge, this has occurred at all levels of government and in all elections.
 
-Als einfachen Vergleich habe ich die Ergebnisse der US-Präsidentschaftswahlen nach Bezirken seit 1960 zusammengestellt. Zunächst ist festzustellen, dass die **politische Geografie der USA seit dem Jahr 2000 völlig starr geworden ist**. Während die Zugehörigkeit zu den Bezirken vorher dynamisch war, verlaufen die Wahlen jetzt immer nach demselben Muster. Die Bezirke wechseln oder "schwingen" viel seltener von einer Parteien zur anderen.
+As a simple comparison, I have compiled the results of US presidential elections by district since 1960. The first thing to note is that the **political geography of the US has become completely rigid** since 2000. While district affiliation was previously dynamic, elections now always follow the same pattern. Districts change or ‘swing’ from one party to another much less frequently.
 
 
 ![[us-unreason-2024-06-19-08.44.31.excalidraw]]
 
- Wenn man mit ein wenig Hintergrundwissen die erdrutschartigen Siege von Richard Nixon 1972 und Ronald Reagan 1984 ausser Acht lässt, fällt ausserdem auf, dass es heutzutage viel mehr dunkelrote oder dunkelblaue Bezirke gibt. Das liegt daran, dass die Prozentsätze extremer geworden sind: **Bezirke wählen entweder eindeutig rot oder blau**. Das deutet darauf hin, dass sie **ideologisch homogener** geworden sind. Mit anderen Worten: In immer mehr Bezirken ist die Wahl eine ausgemachte Sache.
+ If you disregard the exceptional landslide victories of Richard Nixon in 1972 and Ronald Reagan in 1984, you will also notice that there are many more dark red or dark blue districts these days. This is because the percentages have become more extreme: **districts vote either clearly red or blue**. This indicates that they have become **more partisan**. In other words: In more and more districts, the election is a **foregone conclusion**.
 
-Wenn man die Geografie der USA etwas kennt, sieht man zudem, dass sich **ein deutlicher Stadt-Land-Gefälle** aufgetan hat. Die Republikaner haben die Städte verloren und die Popularität der Demokraten sinkt mit der Distanz zur nächsten Stadt. Deswegen wird auch oft gesagt: Die Wahlen werden grösstenteils in den Vorstädten entscheiden.
+**A clear urban-rural divide** has opened up. The Republicans have lost the cities and the popularity of the Democrats tends to decrease with the distance to the nearest city. This is why it is often said that elections are largely decided in the **suburbs**.
 
-All das gilt auch für die Wahlen zum Repräsentantenhaus: In der **Mehrheit der Sitze hat eine Partei einen Vorsprung von über 10%**. Das heisst, eine der Parteien hält den Sitz relativ sicher mit einem soliden Vorsprung.
+All this also applies to the elections for the House of Representatives: in the **majority of seats, one party has a lead of over 10%** and there is no real competition.
 
 ![[polarization-20240521230727.png]]
-*[Grafik von FiveThirtyEight](https://fivethirtyeight.com/features/ending-gerrymandering-wont-fix-what-ails-america/).*
+*[Graph from FiveThirtyEight](https://fivethirtyeight.com/features/ending-gerrymandering-wont-fix-what-ails-america/).*
 
-Diese **"Sortierung" erhöht die Bedeutung von Vorwahlen**, weil der Ausgang der Wahlen in vielen Bezirken vorweg klar ist. Das **politisch relevante Publikum** für die Mehrheit der Politiker in Washington ist also *nicht* in erster Linie die Mitte der Bevölkerung, sondern jene **hochmotivierten Aktivisten und Hardliner**, die die Vorwahlen dominieren. Diese Aktivistengruppen können glaubhaft damit drohen, den Politikern im nächsten Vorwahlkampf die Hölle heiss zu machen, wenn sie sich nicht an die Abmachungen halten.
+This **‘sorting’ increases the importance of primaries** because the outcome of elections in many districts is clear in advance. So the **politically relevant audience** for the majority of politicians in Washington is *not* primarily the middle of the population, but those **highly motivated activists and hardliners** who dominate the primaries. These activist groups can credibly threaten to raise hell with the politicians in the next primary if they don't honour the deals.
 
-Dieses Arrangement macht die US-Politik äusserst anfällig für extreme und populistische Politiker. Das beste Beispiel ist natürlich, wie **Trump die Vorwahlen der Republikanischen Partei im Jahr 2016 gekapert hat**: "Nach Angaben des Pew Research Center nahmen an den ersten 12 Vorwahlen des Jahres 2016 nur 17 Prozent der Wahlberechtigten an den Vorwahlen der Republikaner und nur 12 Prozent an den Vorwahlen der Demokraten teil. Mit anderen Worten: Donald Trump hat die Führung bei den Vorwahlen übernommen, indem er eine blosse Mehrheit von nur einem Bruchteil der Wählerschaft gewonnen hat."[^rauch2]
+This arrangement makes US politics extremely vulnerable to extreme and populist politicians. The best example, of course, is how **Trump hijacked the 2016 Republican Party primaries**: ‘According to the Pew Research Center, in the first 12 primaries of 2016, only 17 per cent of eligible voters participated in the Republican primaries and only 12 per cent in the Democratic primaries. In other words, Donald Trump has taken the lead in the primaries by winning a bare majority of just a fraction of the electorate.’[^rauch2]
 
 [^rauch2]: Ibid. [Rauch 2016](http://www.theatlantic.com/magazine/archive/2016/07/how-american-politics-went-insane/485570/)
 ### Ursachen der "Grosse Sortierung"
