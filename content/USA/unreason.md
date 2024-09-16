@@ -74,87 +74,87 @@ All this also applies to the elections for the House of Representatives: in the 
 ![[polarization-20240521230727.png]]
 *[Graph from FiveThirtyEight](https://fivethirtyeight.com/features/ending-gerrymandering-wont-fix-what-ails-america/).*
 
-This **‘sorting’ increases the importance of primaries** because the outcome of elections in many districts is clear in advance. So the **politically relevant audience** for the majority of politicians in Washington is *not* primarily the middle of the population, but those **highly motivated activists and hardliners** who dominate the primaries. These activist groups can credibly threaten to raise hell with the politicians in the next primary if they don't honour the deals.
+This **‘sorting’ increases the importance of primaries** because the outcome of elections in many districts is clear in advance. Thus the **politically relevant audience** for the majority of politicians in Washington is *not* primarily the middle of the population, but those **highly motivated activists and hardliners** who dominate the primaries. These activist groups can credibly threaten to raise hell with the politicians in the next primary if they don't honour the deals.
 
 This arrangement makes US politics extremely vulnerable to extreme and populist politicians. The best example, of course, is how **Trump hijacked the 2016 Republican Party primaries**: ‘According to the Pew Research Center, in the first 12 primaries of 2016, only 17 per cent of eligible voters participated in the Republican primaries and only 12 per cent in the Democratic primaries. In other words, Donald Trump has taken the lead in the primaries by winning a bare majority of just a fraction of the electorate.’[^rauch2]
 
 [^rauch2]: Ibid. [Rauch 2016](http://www.theatlantic.com/magazine/archive/2016/07/how-american-politics-went-insane/485570/)
-### Ursachen der "Grosse Sortierung"
+### Causes of the ‘Great Sorting’
 
-> [!info]- Ein Mini-Überblick über die wichtigsten **Entwicklungen**, die in der "Grossen Sortierung" enden.
+> [!info]- A mini-overview of the most important **developments** that led up to the ‘Great Sort’.
 >
-> - Als Ausgangspunkt sollte man sich vor Augen halten: Der US-Bürgerkrieg (1861-1865) wurde geführt, weil sich die Sklavenhalter im Süden vom Norden abspalten wollten, um die Sklaverei zu erhalten. Der Krieg endete mit dem Sieg der Unionstruppen unter der Führung von Abraham **Lincoln - einem Republikaner**. Die Demokraten waren damals noch die Partei des Südens und unterstützten die Sklaverei.
-> - In den Jahrzehnten nach dem Krieg gaben die Republikaner ihr Ziel der Reformierung des Südens weitgehend auf. Stattdessen wurden sie zu einer unternehmerfreundlichen Wirtschaftspartei.
-> - Mit der New-Deal-Koalition von Franklin D. **Roosevelt** im Zusammenhang mit der Grossen Depression ab 1929 begannen die Demokraten im Norden und bei ethnischen Minderheiten an Popularität zu gewinnen. Unter John F. **Kennedy** und Lyndon B. Johnson unterstützten die Demokraten dann einige Forderungen der von Martin Luther King angeführten Bürgerrechtsbewegung. Dies kam bei ihren konservativen weissen Wählern im Süden nicht gut an, und es formierte sich Widerstand in den so genannten "Dixiecrats".
-> Die Republikaner "in den New-Deal-Parteisystemen neigten dazu, ihre Unterstützung von den wohlhabenderen, so genannten WASPs ausserhalb des Südens und von Wählern aus ländlichen und schliesslich vorstädtischen Gebieten zu beziehen, als diese Gemeinden entstanden"[^brewer] Richard Nixon zog dann die "Südstaatenstrategie" durch, um die unzufriedene weisse Arbeiterklasse im Süden anzuziehen, von denen die meisten Evangelikale waren. "Mit Reagan als Präsidentschaftskandidat der Partei und schliesslich als Anführer und öffentliches Gesicht für mindestens zwölf Jahre versuchte die Partei, ihren Establishment-Flügel - der von den Wohlhabenden, der Geschäftswelt, den WASPs (Elemente, die man vielleicht als Country-Club-Republikaner zusammenfassen könnte) und den ländlichen und vorstädtischen Wählern im Norden repräsentiert wurde - mit ihrer neu gefundenen Unterstützung unter den weissen Südstaatlern, den evangelikalen Protestanten und anderen religiösen Konservativen sowie den Amerikanern aus der Arbeiterklasse (sowohl innerhalb als auch ausserhalb der Gewerkschaften) vollständig zu verschmelzen"[^brewer]
-> - Im späten 20. Jahrhundert war diese Neuausrichtung weitgehend abgeschlossen. Die Demokratische Partei wurde mit einer liberalen bis progressiven Politik identifiziert, die sich auf soziale Gerechtigkeit, Bürgerrechte und eine Ausweitung staatlicher Eingriffe in die Wirtschaft konzentrierte. Die Republikanische Partei wurde mit konservativen Werten assoziiert, die eine begrenzte staatliche Intervention, die freie Marktwirtschaft und traditionelle soziale Normen betonten.
+> - As a starting point, keep in mind: The US Civil War (1861-1865) was fought because slaveholders in the South wanted to secede from the North in order to preserve slavery. The war ended with the victory of the Union troops under the leadership of Abraham **Lincoln - a Republican**. The Democrats were still the party of the South at the time and supported slavery.
+> - In the decades following the war, Republicans largely abandoned their goal of reforming the South. Instead, they became a pro-business economic party.
+> - With the New Deal coalition of Franklin D. **Roosevelt** in connection with the Great Depression starting in 1929, the Democrats began to gain popularity in the North and among ethnic minorities. Under John F. **Kennedy** and Lyndon B. Johnson, the Democrats then supported some of the demands of the civil rights movement led by Martin Luther King. This did not go down well with their conservative white voters in the South, and resistance formed in the so-called ‘Dixiecrats’.
+> Republicans ‘in the New Deal party systems tended to draw their support from the more affluent, so-called WASPs outside the South and from rural and eventually suburban voters as these communities emerged.’[^brewer] Richard Nixon then pulled off the ‘Southern Strategy’ to attract the disaffected white working class in the South, most of whom were evangelicals. ‘With Reagan as the party's presidential nominee and eventual leader and public face for at least twelve years, the party attempted to keep its establishment wing - which was dominated by the wealthy, the business community, the WASPs (Elements, which might be summarised as country-club Republicans) and rural and suburban voters in the North - with its newfound support among white Southerners, evangelical Protestants and other religious conservatives, and working-class Americans (both inside and outside the unions)."[^brewer]
+> - By the late 20th century, this realignment was largely complete. The Democratic Party became identified with liberal to progressive policies centred on social justice, civil rights and an expansion of government intervention in the economy. The Republican Party was associated with conservative values that emphasised limited government intervention, free market economics, and traditional social norms.
 
-[^brewer]: Brewer, M. D. & Powell, R. J. 'The Evolution of the Republican Party Coalition, 1968-2020' in *Polarization and Political Party Factions in the 2020 Election*. Herausgegeben von Jennifer C. Lucas, Tauna S. Sisco, und Christopher J. Galdieri. Lexington Books, 2022.
+[^brewer]: Brewer, M. D. & Powell, R. J. ‘The Evolution of the Republican Party Coalition, 1968-2020’ in *Polarisation and Political Party Factions in the 2020 Election*. Edited by Jennifer C. Lucas, Tauna S. Sisco, and Christopher J. Galdieri. Lexington Books, 2022.
 
-Die Sortierung ist ein relativ junges Phänomen, das in den 1990er Jahren begann und hauptsächlich eine Folge der Verschiebung der Parteipositionen in den Jahrzehnten zuvor zu sein scheint. Nachdem die Demokraten mit FDR den New Deal auf den Weg gebracht hatten und die Bürgerrechtsbewegungen unterstützten, reagierten die Republikaner seit Richard Nixon mit der "Southern Strategy", um unzufriedene weisse Wähler im Süden (die oft Evangelikale sind) anzusprechen. Das Ergebnis war, dass beide Parteien ein viel **klareres ideologisches Profil** hatten.
+The clear sorting is a relatively recent phenomenon that began in the 1990s and appears to be largely a result of shifting party positions in the decades prior. After Democrats launched the New Deal with FDR and supported the civil rights movements, Republicans since Richard Nixon responded with the ‘Southern Strategy’ to appeal to disaffected white voters in the South (who are often evangelicals). The result was that the two parties had a much **clearer ideological faultline**.
 
-> "However, according to Green, Palmquist and Schickler (2002) few southern Democrats shifted their party identification to the Republican Party. Instead over time, **generational replacement** occurred where new voters identified with the Republican Party as the older Democratic identifiers passed away."[^lang]
+> "according to Green, Palmquist and Schickler (2004) few southern Democrats shifted their party identification to the Republican Party. Instead over time, **generational replacement** occurred where new voters identified with the Republican Party as the older Democratic identifiers passed away."[^lang]
 
-Ein zweiter Faktor könnte sein, dass Menschen mit ähnlichen politischen Präferenzen **in ähnliche Gegenden ziehen** - z.B. Konservative, die aufs Land ziehen, und Progressive, die in die Stadt wollen. Laut Corey & Pearson-Merkowitz deuten die Beweislage jedoch so, dass solche selektive Migration von geringer Bedeutung ist.[^lang]
+A second factor could be that people with similar political preferences **move** to similar neighbourhoods - e.g. conservatives moving to the countryside and progressives moving to the city. However, according to Corey & Pearson-Merkowitz, the evidence suggests that such selective migration is of little importance.[^lang]
 
-[^lang]: Lang, Corey, und Shanna Pearson-Merkowitz. 'Partisan Sorting in the United States, 1972-2012: New Evidence from a Dynamic Analysis'. *Political Geography* 48 (September 2015): 119-29. https://doi.org/10.1016/j.polgeo.2014.09.015. Sie zitieren Green, D., B. Palmquist & E. Schickler. (2004). *Partisan Hearts and Minds*. New Haven, CT: Yale University Press.
+[^lang]: Lang, Corey, und Shanna Pearson-Merkowitz. 'Partisan Sorting in the United States, 1972-2012: New Evidence from a Dynamic Analysis'. *Political Geography* 48 (September 2015): 119-29. https://doi.org/10.1016/j.polgeo.2014.09.015. They cite Green, D., B. Palmquist & E. Schickler. (2004). *Partisan Hearts and Minds*. New Haven, CT: Yale University Press.
 
-Einige Autoren vermuten, dass ein ähnlicher Sortierprozess in Bezug auf die **ethnische Identität** stattgefunden habe. Doch das geschah bereits in den 1960ern.[^black] Seither zeigen die Daten keine grosse Veränderung mehr, wenn man die Unterstützung der Partei nach ethnischer Zugehörigkeit aufschlüsselt.
+Some authors suggest that a similar sorting process has taken place in relation to **ethnic identity**. But this already happened in the 1960s.[^black] Since then, the data does not show much change when breaking down party support by ethnicity.
 
-[^black]: Belege für diese Aussage z.B. [hier](https://centerforpolitics.org/crystalball/black-voters-and-the-2024-presidential-election-a-breakthrough-for-trump/)
+[^black]: Evidence supporting this assertion e.g. [here](https://centerforpolitics.org/crystalball/black-voters-and-the-2024-presidential-election-a-breakthrough-for-trump/)
 
 ![[us-unreason-20240615001914.png]]
-Quelle: [Pew Research](https://www.pewresearch.org/politics/2024/04/09/partisanship-by-race-ethnicity-and-education/)
+Source: [Pew Research](https://www.pewresearch.org/politics/2024/04/09/partisanship-by-race-ethnicity-and-education/)
 
-Während den Präsidentschaften von Bush Jr. ("compassionate conservatism") und Obama haben die Republikaner das als Problem erkannt, da die USA auch in Zukunft immer diverser werden. So schrieb die Partei 2013 selbst:
+During the presidencies of Bush Jr. (‘compassionate conservatism’) and Obama, the Republicans recognised this as a problem, as the USA will continue to become increasingly diverse in the future. The party itself wrote in 2013:
 
 > "We need to campaign among Hispanic, black, Asian, and gay Americans and demonstrate we care about them, too. We must recruit more candidates who come from minority communities." Republican National Committee 2013
 
-Trumps Wahlkampf könnte man gewissermassen als Absage an diese Strategie sehen. Er brauste auf die politische Bühne mit einem toxischen Mix aus Populismus, Bullshit, Verschwörungstheorien und Fremdenhass, der je stärker Anklang fand, desto männlicher, schlecht gebildet oder weisser die Zuhörer waren.
+To a certain extent, Trump's election campaign could be seen as a rejection of this strategy. He burst onto the political stage with a toxic mix of populism, bullshit, conspiracy theories and xenophobia, which resonated more strongly the more male, poorly educated or white the audience was.
 
 ![[us-unreason-2024-06-26-16.58.44.excalidraw]]
-Quelle: [Pew Research](https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/)
-### Ungezügeltes "unabhängiges" Geld
+Source: [Pew Research](https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/)
+### Unbridled ‘independent’ money
 
-Bis in die 1960er Jahre hatten die Parteieliten erheblichen Einfluss auf den Wahlprozess und setzten ihre bevorzugten Kandidaten trotz Vorwahlen meist durch. Dann verloren sie durch eine Reihe von oft gut gemeinten Reformen zunehmend an Einfluss. So führte beispielsweise die Regulierung der Parteienfinanzierung dazu, dass **Spender ihre Gelder über private und oft anonyme Kanäle in den Wahlkampf einfliessen liessen**.
+Up until the 1960s, the party elites had considerable influence on the electoral process and usually won through with their favoured candidates despite primaries. They then increasingly lost influence through a series of often well-intentioned reforms. For example, the regulation of party financing led to **donors channeling their money into election campaigns through private and often anonymous channels**.
 
-Das ["Citizen United" Urteil von 2010](https://en.wikipedia.org/wiki/Citizens_United_v._FEC) hat dies auf die Spitze getrieben: **Konzerne und Lobbygruppen dürfen offiziell so viel Geld für Wahlwerbung ausgeben, wie sie wollen** - solange sie dies ohne Abstimmung mit den Kandidaten tun. Dies führte zu einer regelrechten Explosion von undurchsichtigem "outside money"[^outside] in US-Wahlkämpfen ab 2012, wie die Statistiken [von opensecrets.org](https://www.opensecrets.org/outside-spending?type=A&filter=) zeigen.
+The [‘Citizen United’ ruling of 2010](https://en.wikipedia.org/wiki/Citizens_United_v._FEC) has taken this to the extreme: **Corporations and lobby groups are officially allowed to spend as much money as they want on election advertising** - as long as they do so without coordinating with the candidates. This led to a veritable explosion of opaque ‘outside money’[^outside] in US election campaigns from 2012 onwards, as the statistics [from opensecrets.org](https://www.opensecrets.org/outside-spending?type=A&filter=) show.
 
-[^outside]: Der Begriff "outside money" bezieht sich auf politische Ausgaben, die von Gruppen oder Einzelpersonen getätigt werden, die von den Kandidaten und Parteien unabhängig sind und nicht mit ihnen koordiniert werden.
+[^outside]: The term ‘outside money’ refers to political spending made by groups or individuals that are independent of and not coordinated with the candidates and parties.
 
 ![[polarization-2024-05-29-12.23.20.excalidraw]]
-*Statistiken [von opensecrets.org](https://www.opensecrets.org/outside-spending?type=A&filter=)*
+*Stats [from opensecrets.org](https://www.opensecrets.org/outside-spending?type=A&filter=)*
 
-Die Verlagerung hin zu Vorwahlen hat sich auch darauf ausgewirkt, **wo Aktivisten und Lobbygruppen ihre Ressourcen einsetzen: zunehmend in den Vorwahlen**, und zunehmend konzentriert auf eine der Parteien. Sie beobachten das Verhalten der Politiker mit der latenten Drohung, bei den nächsten Vorwahlen einen geeigneteren Rivalen zu unterstützen. Wie David Karol erklärt:
+The shift to primaries has also affected **where activists and lobbying groups deploy their resources: increasingly in the primaries**, and increasingly concentrated on one of the parties. They watch the behaviour of politicians with the latent threat of supporting a more suitable rival in the next primaries. As David Karol explains:
 
 > "To secure the favour and support of these 'intense demanders,' candidates \[in the primaries\] must make political commitments, which increases the gap between the parties. These positions prompt activists and groups to align with one party or the other. The concentration of groups with divergent preferences in competing parties, in turn, increases the pressure for polarisation." David Karol[^karol1]
 
 [^karol1]: Karol, David. 'Party Activists, Interest Groups, and Polarization in American Politics'. In Thurber, James A., and Antoine Yoshinaka, eds. _American Gridlock: The Sources, Character, and Impact of Political Polarization_. New York: Cambridge University Press, 2016. p. 69.
 
-Einige Beispiele für solche Gruppen:
-- Bei den Republikanern ist die religiöse Rechte sehr einflussreich geworden (Gruppen wie die Moral Majority, Christian Coalition of America, Focus on the Family).
-- Die Öl- und Gasindustrie verbündet sich zunehmend mit den Republikanern, Umweltgruppen mit den Demokraten.
-- Die Waffenlobby um die NRA und GOA
-## Welches ist das Zielpublikum?
+Some examples of such groups:
+- Among Republicans, the religious right has become very influential (groups like the Moral Majority, Christian Coalition of America, Focus on the Family).
+- The oil and gas industry is increasingly allying itself with the Republicans, environmental groups with the Democrats.
+- The gun lobby around the NRA and GOA
+## What is the target audience?
 
-Insgesamt sind die Wählerschichten stärker sortiert, die Parteistrukturen schwächer und die Vorwahlen wichtiger geworden. Diese Kombination **erklärt, warum der US-Senat weniger polarisiert ist**. Senatswahlkämpfe werden in einem ganzen Bundesstaat und weniger häufig geführt.
+Overall, the electorate has become more diverse, the party structures weaker and the primaries more important. This combination **explains why the US Senate is less polarised**. Senate races are fought statewide and less frequently.
 
-Sie erklärt auch, **warum die Demokraten die vernünftigere Partei bleiben**. "Die Beweise zeigen eindeutig, dass die Verhaltensänderungen grösstenteils von den Republikanern vorangetrieben werden", schrieben Michael Barber und Nolan McCarty im Jahr 2013[^barber]. "\[Eine Verschiebung] weit nach rechts wird von republikanischen Wählern enthusiastisch aufgenommen, mehr als eine Verschiebung weit nach links von demokratischen Wählern."[^brookings]
+It also explains **why Democrats remain the more reasonable party**. ‘The evidence clearly shows that the behavioural shifts are largely driven by Republicans,’ wrote Michael Barber and Nolan McCarty in 2013[^barber]. ‘[A shift] far to the right is more enthusiastically embraced by Republican voters than a shift far to the left by Democratic voters."[^brookings]
 
-[^barber]: S. 21 in [diesem PDF](https://nb-posters.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000719509703978&context=L&vid=41SNL_53_INST:posters&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,proporz&offset=00)
+[^barber]: P. 21 in [this PDF](https://nb-posters.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000719509703978&context=L&vid=41SNL_53_INST:posters&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,proporz&offset=00)
 [^brookings]: https://www.brookings.edu/articles/lessons-from-the-2022-primaries-what-do-they-tell-us-about-americas-political-parties-and-the-midterm-elections/
 
-Dies ist wahrscheinlich darauf zurückzuführen, dass die **Wählerschaft** der Demokraten auch in den Vorwahlen **vielfältiger** ist. Die Kandidaten müssen bereits verschiedene Wählergruppen ansprechen. Auf der Seite der Demokraten gibt es daher möglicherweise keine einzelne Kraft, die in der Lage wäre, die Vorwahlen landesweit in eine Richtung zu treiben.
+This is likely due to the fact that the **voter base** of Democrats is **more diverse** in the primaries as well. Candidates already have to appeal to different groups of voters. On the Democratic side, therefore, there may be no single force capable of driving the primaries in one direction nationwide.
 
 ![[polarcongress.png]]
 
-Weiter bin ich noch nicht gekommen. Ich hoffe, ich habe die wichtigsten Faktoren erfasst. Ich könnte die Analyse erweitern, um die Fragmentierung der Medienlandschaft seit Cable News, Social Media usw. einzubeziehen.
+I haven't got any further yet. I hope I've covered the most important factors. I could expand the analysis to include the fragmentation of the media landscape since Cable News, social media, etc.
 
-Zusammenfassend würde ich nach dieser Untersuchung sagen: Wenn ich wieder völlig irrationale republikanische Politiker sehe, die in einem mafiösen Brief die Mitarbeiter des [Internationalen Strafgerichtshofs](https://nb-posters.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000719509703978&context=L&vid=41SNL_53_INST:posters&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,proporz&offset=01) und ihre Familien bedrohen, **frage ich mich, was ihr Zielpublikum ist**.
+To summarise after this research, I would say: when I see completely irrational Republican politicians threatening [International Criminal Court](https://nb-posters.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000719509703978&context=L&vid=41SNL_53_INST:posters&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,proporz&offset=01) staff and their families in a mafia-style letter again, **I wonder what their target audience is**.
 
 ![[polarization-20240524004535.png]]
-[Kopie](https://nb-posters.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000719509703978&context=L&vid=41SNL_53_INST:posters&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,proporz&offset=02) des Briefes bei Politico.*
+[copy](https://nb-posters.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000719509703978&context=L&vid=41SNL_53_INST:posters&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,proporz&offset=02) of the letter at Politico.
 
-Denn als Ted Cruz, der eingangs erwähnte Senator, 21 Stunden lang sinnlos im Senat redete, mag das für uns Aussenstehende lächerlich gewirkt haben. Aber bei seiner republikanischen Basis kam es so gut an, dass die Organisation "Americans for Limited Government" ihn zur Person des Jahres 2013 ernannte.[^hill] Wenn man also davon ausgeht, dass Cruz seine Basis **repräsentiert**, beginnt das Traurige daran, dass das lächerliche Verhalten einen Sinn ergibt.
+Because when Ted Cruz, the senator mentioned at the beginning, spoke pointlessly on the Senate floor for 21 hours, it may have seemed ridiculous to us outsiders. But it was so well received by his Republican base that the Americans for Limited Government organisation named him its 2013 Person of the Year.[^hill] So, assuming Cruz **represents** his base, the sad part is that the ridiculous behaviour begins to make sense.
 
 [^hill]: https://thehill.com/blogs/pundits-blog/lawmaker-news/194072-ted-cruz-2013-person-of-the-year/
