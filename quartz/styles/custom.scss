@@ -37,11 +37,14 @@
   tbody,
   li,
   p {
-    font-size: 1.2rem;
-    line-height: 1.8rem;
+    font-optical-sizing: auto;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+    font-weight: 300;
   }
   strong {
     color: var(--color-accent-0);
+    font-weight:600;
   }
   blockquote {
     border-left-color: var(--color-accent-0);
