@@ -20,7 +20,7 @@ Zitate und Bilder aus dem [Abstimmungsbüechli](https://swissvotes.ch/attachment
 
 ### Koordinationsabzug wird progressiv
 
-![[img.png]]
+![[bvg.png]]
 
 ### Rentenzuschlag für Übergangsgenerationen
 
