@@ -20,7 +20,7 @@ Meine Notizen zur BVG-Abstimmung. Zitate und Bilder aus dem [Abstimmungsbüechli
 
 ### Koordinationsabzug wird progressiv
 
-![[img.png]]
+![[bvg.png]]
 
 ### Rentenzuschlag für Übergangsgenerationen
 

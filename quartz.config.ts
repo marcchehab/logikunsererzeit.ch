@@ -20,8 +20,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Barlow",
-        body: "Lora",
+        header: "Barlow Condensed",
+        body: "Roboto Slab",
         code: "IBM Plex Mono",
       },
       colors: {
