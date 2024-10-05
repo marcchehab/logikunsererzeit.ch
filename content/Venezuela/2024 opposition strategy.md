@@ -1,47 +1,51 @@
 ---
-title: A strategy proposal for the Venezuelan opposition
+title: A strategy proposal for Venezuela's democratic opposition
 date: 2024-10-01
 ogimage: og_machado_desk.png
 ---
 ![[og_machado_desk.png]]
 *An old picture of María Corina Machado just to illustrate.*
 
-The [[2024 elections fraud evidence|election strategy of the Venezuelan opposition]] was truly a marvel of democratic activism to behold: Rooted in a sober assessment of their opponents, they assembled what tools they had at their disposal to a winning strategy. These tools were:
-- A **credible strategy** to use Venezuela's fairly robust election system to resist the autocracy's efforts to fake the votes.
-- Tireless **campaigning and leadership** by [[María Corina Machado]]
-- An **organisation** consisting of: 
+The [[2024 elections fraud evidence|election strategy of the Venezuelan opposition]] was truly a marvel of democratic activism to behold: Rooted in a sober assessment of their opponents, they assembled what they had at their disposal to a winning strategy. The principle components were:
+- A **credible strategy with a inspiring, popular goal**: To use Venezuela's robust voting system to resist the autocracy's vote rigging.
+- An **organisation fit for purpose** consisting of: 
 	- Small citizen groups ('comanditos') that protected their voting tallies at their voting centre
 	- Professional coordination and execution at the "Gran Alianza Nacional", which required considerable technical skills
+- Tireless **campaigning and leadership** by [[María Corina Machado]]
 
-This political work of art, to me, was **on par with the greatest acts of democratic activism in history** - right up there with the Maidan Uprising, the Salt March, the Egyptian Revolution 2011, the Tiananmen Square protests, the Anti-apartheid protests, and so many other times that humans sought to free themselves of the shackles of autocracy.
+The political work of art that ensued, to me, is **on par with the greatest acts of democratic activism in history** - right up there with the Maidan Uprising, the Salt March, the Egyptian Revolution 2011, the Tiananmen Square protests, the Anti-apartheid protests, and so many other times that humans sought to free themselves of the shackles of autocracy.
 
-Sadly, so far, the follow up of the Venezuelan opposition is falling short. The opposition seems to have backslid to the same erroneous strategies it has successfully avoided in the election: an **overreliance on international pressure, empty rhetoric, and moral outrage**. So, what might a better strategy look like?
+Sadly, so far, **the follow up is falling short**. The opposition seems to have backslid to its old, erroneous strategies: an overreliance on moral righteousness, international actors, and empty rhetoric. So, what might a better strategy look like from October 2024 onwards?
 ## The basic approach
 
-I recommend a strategy of **nonviolent resistance to topple the dictatorship**. This strategy is based on the view that, even in a dictatorship, those in power depend on either the willing cooperation or at least the reluctant compliance of key institutions such as the military, police, bureaucracies, and economic actors. Nicolás Maduro isn't strong enough to subjugate the Venezuelan people, he needs help to do that. As Jean-Jacques Rousseau had it:
+I recommend a strategy of **nonviolent resistance to topple the dictatorship** based on the same principles found in Gene Sharp's "From dictatorship to democracy" ([PDF](https://www.files.ethz.ch/isn/126900/8008_FDTD.pdf)). This strategy is based on the view that, even in a dictatorship, **those in power depend cooperation**, principally the willing cooperation or at least the reluctant compliance of key institutions such as the security forces, public administration, and economic actors. Nicolás Maduro isn't strong enough to subjugate the Venezuelan people, he needs help to do that.
 
 > "The strongest is never strong enough to be always the master, unless he transforms strength into right, and obedience into duty." - Jean-Jacques Rousseau
 
-The basic approach, then, is to **identify the dictatorship's most crucial pillars of support and undermine those pillars** using strategic nonviolent action with the goal to make it crumble and collapse. 
+The basic approach, then, is to **identify the dictatorship's most crucial pillars of support and undermine those pillars** using strategic nonviolent action with the goal to make them crumble and collapse.
 
-Why do I **advise against violence**? I'm not a pacifist and Venezuelans would be entirely justified to oppose this unjust and brutal dictatorship violently. The reason I don't recommend it is that it is **bad strategy**.
-- Violence is one of the dictatorship's strengths. As the Chinese military strategist Sun Tzu advised in "The Art of War": Avoid your opponent's strength, attack their weakness.
-- Violence (especially by foreigners) most often does the opposite of what we need: It unifies the regime and splits the opposition. Nonviolent action aims to split the regime and engage broader bases of support for the opposition.
-- Violence doesn't change the main issue: Venezuelan society is too weak compared to the state. 
+Why do I **advise against violence**? I'm not a pacifist and Venezuelans would be entirely justified to oppose this unjust and brutal dictatorship violently. But given the possibilities I see, I consider it a **bad strategy**.
+- Violence is one of the dictatorship's strengths. The idea should instead be to avoid your enemy's strength and attack their weakness (from Sun Tzu's "The Art of War").
+- Violence (especially by foreigners) most often effects the opposite of what we need: It unifies the regime and splits the opposition. 
+- Legitimate moral superiority is a key strength of the opposition. Nonviolent action aims to split the regime and engage broader bases of support for the opposition.
+- Violence doesn't address the main problem: Venezuelan society is too disorganised compared to the dictatorship.
 - A violent coup may just replace one autocracy with another. Even when successful, society is still at the mercy of those in power.
 
-But make no mistake: This is a battle plan for a power struggle against an unrelenting dictatorship. Simply because the weapons employed aren't violent doesn't make them less powerful - quite to the contrary.
+The weapons we employ, then, are nonviolent. But make no mistake about it: This is still a battle against an unrelenting dictatorship. Winning this fight requires about as much discipline, strategic wisdom, and organisation as a military campaign.
 ## The dictatorship's pillars of support
 
 Which are the most relevant pillars of support that prop up the Venezuelan dictatorship? 
+### The repressive apparatus
 
-### Repressive apparatus
+The dictatorship reactivated its **repressive apparatus**, resulting in at least 25 deaths and hundreds of people injured or detained. "Most of the arbitrary detentions were carried out by the intelligence services, both civilian (SEBIN) and military (DGCIM), the Bolivarian National Police (PNB), including its new Directorate of Strategic and Tactical Action (FAES), ... and the Bolivarian National Guard (GNB). The last two institutions also carried out arbitrary detentions, in particular, in the context of the protests after 28 July 2024."[^unreport] 
 
-The **repressive apparatus** intimidating the population and murdering people consisting of FANB/GNB, PNB/FAES, SEBIN, DGCIM, Colectivos. According to the UNHCR mission, in the days following the election "the repression resulted in 25 deaths and hundreds of persons were injured and detained for simply expressing an opinion."[^unreport] The regime repressed protests launching the notorious Operación Tun Tun (Operation Knock Knock), in which often unidentified security personell knocked on doors and abducted people who participated in protests. All of this has the deliberate effect of sowing **fear** to express discontent and oppose the dictatorship. 
+...
+
+The regime repressed protests with its notorious Operación Tun Tun (Operation Knock Knock), in which often unidentified and masked security personell knocked on doors and abducted people who participated in protests. All of this has the **deliberate effect of sowing fear** to express discontent and oppose the dictatorship. Horrible as it is, this reaction was to be expected. Brutality a requirement for the dictatorial control they seek.
 
 [^unreport]: UNHCR. ‘Report of the Independent International Fact-Finding Mission on the Bolivarian Republic of Venezuela’, 17 September 2024. [https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/sessions-regular/session57/advance-versions/a-hrc-57-57-en.pdf](https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/sessions-regular/session57/advance-versions/a-hrc-57-57-en.pdf), p. 6.
 
-Also: This reaction should be anticipated. It is neither creative, nor clever. 
+
 
 This is a reaction by the dictatorship that is to be expected, and courage 
 - Ostensibly **"public" institutions** captured by and serving the dictatorship, including:
