@@ -1,7 +1,7 @@
 ---
 title: Notizen zur BVG-Reform
 ---
-Zitate und Bilder aus dem [Abstimmungsbüechli](https://swissvotes.ch/attachments/42c5298e2609782e7e99f1a9071cf3238be0a1a82853b98e2fd01bab12fb8f02): 
+Meine Notizen zur BVG-Abstimmung. Zitate und Bilder aus dem [Abstimmungsbüechli](https://swissvotes.ch/attachments/42c5298e2609782e7e99f1a9071cf3238be0a1a82853b98e2fd01bab12fb8f02): 
 ## Wieso brauchts das?
 
 
