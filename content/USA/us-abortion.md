@@ -12,3 +12,4 @@ How can you do that?
 2) I then asked ChatGPT to add to this table the names and political parties of the governor. You should always factcheck output by AI, but this worked surprisingly well!
 3) I then added this so Excel.
 
+What's the takeaway for me? There's plenty of States Democrats could cite t
