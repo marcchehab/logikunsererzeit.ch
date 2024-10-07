@@ -14,8 +14,8 @@ He was asked this at the VP debate already, so it's odd he doesn't have a better
 
 > "You're right, unlike Roe v Wade Minnesota doesn't technically have a fixed time limit on abortion. But that's because of a legal issue. Our state law and practise actually follow the idea of viability, which means that a fetus can only be aborted if it can't survive outside the womb or threatens the life of the mother. On average that's in week 23. That's the same idea that underpinned Roe v Wade and that a majority of Americans support - which is probably why there's similar laws in over 10 States governed by Republicans."
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/1f/Pregnancy_timeline.png)
-
+![[us-abortion-2024-10-07-14.12.04.excalidraw]][^1]
+[^1]: Source: https://commons.wikimedia.org/wiki/File:Pregnancy_timeline.svg
 
 In **Switzerland**, abortion is legal and a woman's sole decision in the first 12 weeks. At a later stage, a doctor has to decide if the physical or mental health of the mother is at risk. The more advanced the pregnancy, the greater the danger must be (StGB, Art. 119).
 ## How can you do that? 
