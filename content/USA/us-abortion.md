@@ -7,9 +7,8 @@ Watching Tim Walz' interview of Fox News made me wonder: What abortion policy do
 
 ![[us-abortion-2024.excalidraw]]
 
-How can you do that? 
+## How can you do that? 
 1) I found the data on [kkf.org](https://www.kff.org/womens-health-policy/state-indicator/gestational-limit-abortions/?activeTab=map&currentTimeframe=0&selectedDistributions=statutory-limit-on-abortions&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D), which you can download as CSV to import into Excel. 
 2) I then asked ChatGPT to add to this table the names and political parties of the governor. You should always factcheck output by AI, but this worked surprisingly well!
 3) I then added this so Excel.
 
-What's the takeaway for me? There's plenty of States Democrats could cite t
