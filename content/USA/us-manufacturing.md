@@ -1,16 +1,18 @@
 ---
 title: Cheat-sheet to discuss US manufacturing (and why it's probably not coming back)
 date: 2024-10-08
-ogimage: us-manufacturing-2024-10-03-14.46.27.excalidraw.light.svg
+ogimage: ogmanufacturing.png
 ---
 In the US presidential elections 2024, there's a lot of talk about **"bringing those factories back"** after they've been "outsourced" to Mexiko or "offshored" to China. Watching this from Zurich, Switzerland, it's disheartening to see how there's next to no factual basis for the debate. 
 
 So I made myself the **ultimate cheat-sheet** for this discussion, including:
 - Jobs in US manufacturing ([US Bureau of Labor Statistics](https://data.bls.gov/timeseries/CES3000000001))
 - Economic recessions ([Source](https://www.investopedia.com/articles/economics/08/past-recessions.asp))
-- Presidents
-- Trade agreements that are often mentioned (NAFTA and granting China permanent normal trade relations)
+- Presidents and trade agreements that are often mentioned (NAFTA and granting China permanent normal trade relations)
+
 ![[us-manufacturing-2024-10-03-14.46.27.excalidraw]]
+
+With this, then, let
 ## Phases of economic development
 
 One of the oldest and best economic development models is the **three-sector model** by the Frenchman Jean Fourastié. It's good because it explains a lot with very little.
