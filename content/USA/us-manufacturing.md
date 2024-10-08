@@ -45,4 +45,4 @@ In the second half of the 20th century, the West indeed entered the **post-indus
 
 ![[us-manufacturing-2024-10-08-13.33.04.excalidraw]]
 
-The question is what role the offshoring of jobs to China played in this. I'll continue this another day...
+The question is what role the offshoring of jobs to China played in this. I'll continue this another day... If you like it so far and have some feedback, [you can contact me here on X](https://x.com/marcchehab/status/1843770451396571363).
